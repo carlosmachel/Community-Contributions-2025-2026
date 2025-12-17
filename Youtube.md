@@ -23,4 +23,13 @@
     <td align=center><a href="https://www.youtube.com/watch?v=QMt7yAZPj58&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9">Link</a></td>
     <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_revolucione-seus-v%C3%ADdeos-com-azure-ai-video-activity-7300482421748080641-OKlj?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
   </tr>
+   <tr>
+    <td align=center>2</td>
+    <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+    <td align=center>20/03/2025</td>
+    <td align=center>Explorando o Azure Computer Vision: Análise de Imagens Simplificada com IA</td>
+    <td>The provided text is a **transcript from an Azure Brasil Cloud YouTube video** that introduces and explains the capabilities of **Azure Computer Vision**, specifically focusing on its **image analysis services**. The speaker, Carlos Machal, walks through the process of setting up the Computer Vision resource and demonstrates various functions using the **Vision Studio testing tool and a custom application with the SDK/REST APIs**. Key functionalities covered include **image captioning, object detection, dense captioning, text recognition (OCR)**—even on handwritten text—and the creation of **smart thumbnails**.</td>
+    <td align=center><a href="https://www.youtube.com/watch?v=vlpNURkBpTU&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=2">Link</a></td>
+    <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_revolucione-seus-v%C3%ADdeos-com-azure-ai-video-activity-7300482421748080641-OKlj?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
+  </tr>
   </table>
