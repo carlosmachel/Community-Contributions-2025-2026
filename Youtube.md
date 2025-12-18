@@ -43,4 +43,13 @@ Neste vídeo, vamos demonstrar como usar o serviço na prática. Primeiro, vamos
     <td align=center><a href="https://www.youtube.com/watch?v=xCW5_kIyud8&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=3">Link</a></td>
     <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_azureai-customvision-ia-activity-7316145456525279232-JV9L?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
   </tr>
+  <tr>
+      <td align=center>4</td>
+      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center>Maio de 2025</td>
+      <td align=center>Mesa Redonda #220: Novidades do Microsoft Build 2025 - IA, Dados, Azure...</td>
+      <td align=center>Confira neste evento ONLINE e GRATUITO do canal Coding Night as novidades e os grandes anúncios do Build 2025, a conferência anual da Microsoft para Desenvolvedores, que aconteceu nos dias 19, 20, 21 e 22 de Maio. Um bate papo cobrindo tecnologias e tópicos como Copilot, OpenAI, Microsoft Azure, SQL Server, PostgreSQL, Cosmos DB e muito mais</td>
+      <td align=center><a href="https://www.youtube.com/watch?v=RjGYnaSJ-ZM&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=7">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
   </table>
