@@ -32,4 +32,14 @@
     <td align=center><a href="https://www.youtube.com/watch?v=vlpNURkBpTU&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=2">Link</a></td>
     <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_revolucione-seus-v%C3%ADdeos-com-azure-ai-video-activity-7300482421748080641-OKlj?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
   </tr>
+    <tr>
+    <td align=center>3</td>
+    <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+    <td align=center>10/04/2025</td>
+    <td align=center>Hoje vamos falar sobre o Azure AI Custom Vision, um serviço de classificação de imagens e detecção de objetos. Com ele, é possível treinar modelos personalizados a partir das suas próprias imagens, ajustando-os para reconhecer exatamente o que você precisa.
+O Custom Vision permite criar modelos de classificação para identificar categorias específicas de imagens, ou de detecção de objetos, para localizar elementos dentro de uma imagem. Além disso, é possível treinar modelos compactos, que podem ser exportados e usados em aplicativos móveis, como iOS e Android, ou em dispositivos embarcados.
+Neste vídeo, vamos demonstrar como usar o serviço na prática. Primeiro, vamos passar pelo Custom Vision Portal, onde é possível criar, treinar e testar um modelo de forma visual. Em seguida, vamos mostrar como utilizar a SDK do Azure para integrar esse modelo ao seu projeto, seja em uma aplicação web, mobile ou outro tipo de solução.</td>
+    <td align=center><a href="https://www.youtube.com/watch?v=xCW5_kIyud8&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=3">Link</a></td>
+    <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_azureai-customvision-ia-activity-7316145456525279232-JV9L?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
+  </tr>
   </table>
