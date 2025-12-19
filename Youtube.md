@@ -45,11 +45,30 @@ Neste vídeo, vamos demonstrar como usar o serviço na prática. Primeiro, vamos
   </tr>
   <tr>
       <td align=center>4</td>
-      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center><a href="https://www.youtube.com/@CodingNight">CodingNight</a></td>
       <td align=center>30/05/2025</td>
       <td align=center>Mesa Redonda #220: Novidades do Microsoft Build 2025 - IA, Dados, Azure...</td>
       <td align=center>Confira neste evento ONLINE e GRATUITO do canal Coding Night as novidades e os grandes anúncios do Build 2025, a conferência anual da Microsoft para Desenvolvedores, que aconteceu nos dias 19, 20, 21 e 22 de Maio. Um bate papo cobrindo tecnologias e tópicos como Copilot, OpenAI, Microsoft Azure, SQL Server, PostgreSQL, Cosmos DB e muito mais</td>
       <td align=center><a href="https://www.youtube.com/watch?v=RjGYnaSJ-ZM&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=7">Link</a></td>
       <td align=center><a href="">Link</a></td>
   </tr>
+    <tr>
+      <td align=center>4</td>
+      <td align=center><a href="https://www.youtube.com/@CanalDotNET">CanalDotNet</a></td>
+      <td align=center>24/06/2025</td>
+      <td align=center>Fundamentos de Inteligência Artificial: Model Context Protocol (MCP) - O que é, benefícios...</td>
+      <td align=center>Confira neste vídeo uma visão geral sobre Model Context Protocol (MCP)... O que é, benefícios, além da possibilidade de integrar projetos de Inteligência Artificial desenvolvidos em stacks como .NET, Java, Python e Node.js com qualquer tipo de solução que implemente este protocolo (MCP)!</td>
+      <td align=center><a href="https://www.youtube.com/watch?v=0Gxq9ITeUBw">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>4</td>
+    <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center>10/07/2025</td>
+      <td align=center>Banalização da IA para decisões estratégicas</td>
+      <td align=center>Participe da nossa live gratuita no YouTube sobre a banalização da IA em decisões estratégicas. Entenda os impactos, desafios e melhores práticas para usar a inteligência artificial com responsabilidade e eficácia nas estratégias empresariais. Não perca!</td>
+      <td align=center><a href="https://www.youtube.com/watch?v=Y30QEba8lMs">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+  
   </table>
