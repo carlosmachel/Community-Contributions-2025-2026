@@ -53,7 +53,7 @@ Neste vídeo, vamos demonstrar como usar o serviço na prática. Primeiro, vamos
       <td align=center><a href="">Link</a></td>
   </tr>
     <tr>
-      <td align=center>4</td>
+      <td align=center>5</td>
       <td align=center><a href="https://www.youtube.com/@CanalDotNET">CanalDotNet</a></td>
       <td align=center>24/06/2025</td>
       <td align=center>Fundamentos de Inteligência Artificial: Model Context Protocol (MCP) - O que é, benefícios...</td>
@@ -62,12 +62,22 @@ Neste vídeo, vamos demonstrar como usar o serviço na prática. Primeiro, vamos
       <td align=center><a href="">Link</a></td>
   </tr>
   <tr>
-      <td align=center>4</td>
-    <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center>6</td>
+      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
       <td align=center>10/07/2025</td>
       <td align=center>Banalização da IA para decisões estratégicas</td>
       <td align=center>Participe da nossa live gratuita no YouTube sobre a banalização da IA em decisões estratégicas. Entenda os impactos, desafios e melhores práticas para usar a inteligência artificial com responsabilidade e eficácia nas estratégias empresariais. Não perca!</td>
       <td align=center><a href="https://www.youtube.com/watch?v=Y30QEba8lMs">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+
+   <tr>
+      <td align=center>7</td>
+      <td align=center><a href="https://www.youtube.com/@CanalDotNET">CanalDotNet</a></td>
+      <td align=center>10/07/2025</td>
+      <td align=center>Fundamentos de Inteligência Artificial: A2A - Agent2Agent - uma visão geral do protocolo</td>
+      <td align=center>Confira neste vídeo uma visão geral do protocolo Agent2Agent (A2A), um padrão aberto que busca viabilizar a comunicação entre Agents de Inteligência Artificial nas mais diversas plataformas e construídos com diferentes tecnologias, frameworks... Um tópico muito importante se você trabalha com soluções como Azure AI Foundry, Copilot Studio e Semantic Kernel!</td>
+      <td align=center><a href="https://www.youtube.com/watch?v=5wo_YJk8_8Q">Link</a></td>
       <td align=center><a href="">Link</a></td>
   </tr>
   
