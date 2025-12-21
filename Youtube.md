@@ -45,6 +45,25 @@ Neste vídeo, vamos demonstrar como usar o serviço na prática. Primeiro, vamos
   </tr>
   <tr>
       <td align=center>4</td>
+    <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center>39/04/2025</td>
+      <td align=center>Alavanque sua Carreira em 2025: Certificações Azure em Foco! - 2a edição
+</td>
+      <td align=center>Dando continuidade à nossa jornada sobre certificações Azure em 2025, nesta live vamos explorar ainda mais os exames AZ-900, AZ-104, AZ-204 e AZ-400. Junte-se a nós para um bate-papo enriquecedor com especialistas em Desenvolvimento, DevOps, Dados e Infra, que compartilharão:
+✅ Dicas práticas de preparação para os exames.
+✅ Desafios que enfrentaram durante a certificação.
+✅ Vantagens de ter uma certificação Azure no seu currículo.
+🔍 O que você irá aprender:
+• Atualizações sobre certificações Azure.
+• Estratégias para se destacar no mercado de trabalho.
+• Benefícios de se certificar e impulsionar sua carreira.
+🚀 Transforme sua carreira com as certificações Azure! Junte-se a nós!
+</td>
+      <td align=center><a href="https://www.youtube.com/watch?v=VAStet7qASI">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+    <tr>
+      <td align=center>5</td>
       <td align=center><a href="https://www.youtube.com/@CodingNight">CodingNight</a></td>
       <td align=center>30/05/2025</td>
       <td align=center>Mesa Redonda #220: Novidades do Microsoft Build 2025 - IA, Dados, Azure...</td>
@@ -53,7 +72,7 @@ Neste vídeo, vamos demonstrar como usar o serviço na prática. Primeiro, vamos
       <td align=center><a href="">Link</a></td>
   </tr>
     <tr>
-      <td align=center>5</td>
+      <td align=center>6</td>
       <td align=center><a href="https://www.youtube.com/@CanalDotNET">CanalDotNet</a></td>
       <td align=center>24/06/2025</td>
       <td align=center>Fundamentos de Inteligência Artificial: Model Context Protocol (MCP) - O que é, benefícios...</td>
@@ -61,29 +80,10 @@ Neste vídeo, vamos demonstrar como usar o serviço na prática. Primeiro, vamos
       <td align=center><a href="https://www.youtube.com/watch?v=0Gxq9ITeUBw">Link</a></td>
       <td align=center><a href="">Link</a></td>
   </tr>
-  <tr>
-      <td align=center>6</td>
-      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
-      <td align=center>10/07/2025</td>
-      <td align=center>Banalização da IA para decisões estratégicas</td>
-      <td align=center>Participe da nossa live gratuita no YouTube sobre a banalização da IA em decisões estratégicas. Entenda os impactos, desafios e melhores práticas para usar a inteligência artificial com responsabilidade e eficácia nas estratégias empresariais. Não perca!</td>
-      <td align=center><a href="https://www.youtube.com/watch?v=Y30QEba8lMs">Link</a></td>
-      <td align=center><a href="">Link</a></td>
-  </tr>
-
-   <tr>
+<tr>
       <td align=center>7</td>
-      <td align=center><a href="https://www.youtube.com/@CanalDotNET">CanalDotNet</a></td>
-      <td align=center>10/07/2025</td>
-      <td align=center>Fundamentos de Inteligência Artificial: A2A - Agent2Agent - uma visão geral do protocolo</td>
-      <td align=center>Confira neste vídeo uma visão geral do protocolo Agent2Agent (A2A), um padrão aberto que busca viabilizar a comunicação entre Agents de Inteligência Artificial nas mais diversas plataformas e construídos com diferentes tecnologias, frameworks... Um tópico muito importante se você trabalha com soluções como Azure AI Foundry, Copilot Studio e Semantic Kernel!</td>
-      <td align=center><a href="https://www.youtube.com/watch?v=5wo_YJk8_8Q">Link</a></td>
-      <td align=center><a href="">Link</a></td>
-  </tr>
-    <tr>
-      <td align=center>8</td>
        <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
-      <td align=center>26/07/2025</td>
+      <td align=center>26/06/2025</td>
       <td align=center>Desvendando a Carreira de TI: Por Onde Começar e Como Crescer</td>
       <td align=center>Quer dar os primeiros passos na carreira de TI e conquistar seu espaço no mercado de tecnologia? Participe do nosso workshop 100% gratuito e online, especialmente pensado para iniciantes!
 Neste evento exclusivo, você vai:
@@ -95,6 +95,158 @@ Neste evento exclusivo, você vai:
       <td align=center><a href="https://www.youtube.com/watch?v=XtrgwENafEQ">Link</a></td>
       <td align=center><a href="">Link</a></td>
   </tr>
-  
-  
-  </table>
+   <tr>
+      <td align=center>8</td>
+      <td align=center><a href="https://www.youtube.com/@CanalDotNET">CanalDotNet</a></td>
+      <td align=center>10/07/2025</td>
+      <td align=center>Fundamentos de Inteligência Artificial: A2A - Agent2Agent - uma visão geral do protocolo</td>
+      <td align=center>Confira neste vídeo uma visão geral do protocolo Agent2Agent (A2A), um padrão aberto que busca viabilizar a comunicação entre Agents de Inteligência Artificial nas mais diversas plataformas e construídos com diferentes tecnologias, frameworks... Um tópico muito importante se você trabalha com soluções como Azure AI Foundry, Copilot Studio e Semantic Kernel!</td>
+      <td align=center><a href="https://www.youtube.com/watch?v=5wo_YJk8_8Q">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+   <tr>
+      <td align=center>9</td>
+      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center>10/07/2025</td>
+      <td align=center>Banalização da IA para decisões estratégicas</td>
+      <td align=center>Participe da nossa live gratuita no YouTube sobre a banalização da IA em decisões estratégicas. Entenda os impactos, desafios e melhores práticas para usar a inteligência artificial com responsabilidade e eficácia nas estratégias empresariais. Não perca!</td>
+      <td align=center><a href="https://www.youtube.com/watch?v=Y30QEba8lMs">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+ <tr>
+      <td align=center>10</td>
+      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center><a href="">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>11</td>
+      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center><a href="">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>12</td>
+      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center><a href="">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>  
+  <tr>
+      <td align=center>13</td>
+      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center><a href="">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>14</td>
+      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center><a href="">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>  
+  <tr>
+      <td align=center>15</td>
+      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center><a href="">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>  
+  <tr>
+      <td align=center>16</td>
+      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center><a href="">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>  
+  <tr>
+      <td align=center>17</td>
+      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center><a href="">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>  
+  <tr>
+      <td align=center>18</td>
+      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center><a href="">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>  
+  <tr>
+      <td align=center>19</td>
+      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center><a href="">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>  
+  <tr>
+      <td align=center>20</td>
+      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center><a href="">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>  
+  <tr>
+      <td align=center>21</td>
+      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center><a href="">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>  
+  <tr>
+      <td align=center>22</td>
+      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center><a href="">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>  
+  <tr>
+      <td align=center>23</td>
+      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center><a href="">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>  
+  <tr>
+      <td align=center>24</td>
+      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center><a href="">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>  
+</table>  
+    
