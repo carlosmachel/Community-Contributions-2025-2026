@@ -80,5 +80,21 @@ Neste vídeo, vamos demonstrar como usar o serviço na prática. Primeiro, vamos
       <td align=center><a href="https://www.youtube.com/watch?v=5wo_YJk8_8Q">Link</a></td>
       <td align=center><a href="">Link</a></td>
   </tr>
+    <tr>
+      <td align=center>8</td>
+       <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center>26/07/2025</td>
+      <td align=center>Desvendando a Carreira de TI: Por Onde Começar e Como Crescer</td>
+      <td align=center>Quer dar os primeiros passos na carreira de TI e conquistar seu espaço no mercado de tecnologia? Participe do nosso workshop 100% gratuito e online, especialmente pensado para iniciantes!
+Neste evento exclusivo, você vai:
+✔ Descobrir as habilidades e linguagens de programação mais demandadas em 2024
+✔ Conhecer as principais ferramentas utilizadas pelas empresas de tecnologia
+✔ Aprender a montar um portfólio mesmo sem experiência prévia
+✔ Receber dicas práticas de networking para ampliar suas oportunidades no setor de TI
+</td>
+      <td align=center><a href="https://www.youtube.com/watch?v=XtrgwENafEQ">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+  
   
   </table>
