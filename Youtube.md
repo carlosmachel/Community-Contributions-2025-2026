@@ -116,10 +116,15 @@ Neste evento exclusivo, você vai:
  <tr>
       <td align=center>10</td>
       <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
-      <td align=center></td>
-      <td align=center></td>
-      <td align=center></td>
-      <td align=center><a href="">Link</a></td>
+      <td align=center>18 Julho 2025</td>
+      <td align=center>Prompt Engineering: Por que a IA pode estar te dando respostas erradas?</td>
+      <td align=center>A IA não adivinha. Neste corte da nossa live sobre a banalização da inteligência artificial, falamos sobre um ponto crítico que afeta a qualidade das respostas dos modelos de linguagem: o prompt. A forma como você pergunta influencia diretamente no resultado que recebe. E isso vale tanto para quem está testando IA no dia a dia quanto para quem está integrando essas tecnologias em decisões de negócio.
+
+Assista esse corte e entenda:
+• Por que a IA responde “qualquer coisa” mesmo sem contexto
+• Como erros simples de comunicação podem impactar decisões críticas
+• Dicas de prompt engineering que usamos</td>
+      <td align=center><a href="https://www.youtube.com/watch?v=I3Xp8XAisTo">Link</a></td>
       <td align=center><a href="">Link</a></td>
   </tr>
   <tr>
