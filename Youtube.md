@@ -139,37 +139,46 @@ Assista esse corte e entenda:
   <tr>
       <td align=center>12</td>
       <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
-      <td align=center></td>
-      <td align=center></td>
-      <td align=center></td>
-      <td align=center><a href="">Link</a></td>
+      <td align=center>31 de Julho de 2025</td>
+      <td align=center>Fundamentos de Inteligência Artificial (AI) – Ferramentas, Boas Práticas e Aplicações</td>
+      <td align=center>Participe da live gratuita “Fundamentos de Inteligência Artificial (AI)”, onde vamos explorar as principais ferramentas, boas práticas e aplicações essenciais de AI para impulsionar a transformação digital em sua empresa, independentemente da plataforma tecnológica.
+
+Nesta live para profissionais de TI e líderes de tecnologia:
+– Conheça as ferramentas mais usadas em AI atualmente
+– Entenda as melhores práticas para implementar AI com segurança e eficiência
+– Descubra casos práticos de aplicação em diversos ambientes tecnológicos
+– Tire suas dúvidas ao vivo com especialistas do setor
+</td>
+      <td align=center><a href="https://www.youtube.com/watch?v=Auk5N7ljexE">Link</a></td>
       <td align=center><a href="">Link</a></td>
   </tr>  
   <tr>
       <td align=center>13</td>
       <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
-      <td align=center></td>
-      <td align=center></td>
-      <td align=center></td>
-      <td align=center><a href="">Link</a></td>
+      <td align=center>7 de Agosto de 2025</td>
+      <td align=center>Como implementar um Agente Azure AI Foundry integrado ao Model Context Protocol (MCP) em C#</td>
+      <td align=center>Neste corte exclusivo da nossa última live, Carlos Machel demonstra na prática como implementar um agente de IA no Azure AI Foundry, conectando-o diretamente a um servidor Model Context Protocol (MCP) desenvolvido em C#. O conteúdo explora conceitos avançados de inteligência artificial aplicada ao ecossistema Azure, mostrando integrações reais para profissionais de TI que buscam inovação, eficiência e segurança em projetos de nuvem. Ideal para quem quer elevar a governança de modelos, automatizar fluxos e potencializar o uso de IA corporativa na nuvem Microsoft Azure.</td>
+      <td align=center><a href="https://www.youtube.com/watch?v=6tF3Xsfcj3Y">Link</a></td>
       <td align=center><a href="">Link</a></td>
   </tr>
   <tr>
       <td align=center>14</td>
-      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
-      <td align=center></td>
-      <td align=center></td>
-      <td align=center></td>
-      <td align=center><a href="">Link</a></td>
+      <td align=center><a href="https://www.youtube.com/@CanalDotNET">CanalDotNet</a></td>
+      <td align=center>21 de Agosto de 2025</td>
+      <td align=center>Best practices in Artificial Intelligence: security tips and recommendations with MCP Servers</td>
+      <td align=center>Check out this video for a discussion covering the risks and essential security precautions when implementing integration with MCP Servers in Artificial Intelligence projects... Best practices, supporting technologies, issues involving the use of containers/packages, cloud services, and much more!
+</td>
+      <td align=center><a href="https://www.youtube.com/watch?v=U7TNxzI07C4">Link</a></td>
       <td align=center><a href="">Link</a></td>
   </tr>  
   <tr>
       <td align=center>15</td>
       <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
-      <td align=center></td>
-      <td align=center></td>
-      <td align=center></td>
-      <td align=center><a href="">Link</a></td>
+      <td align=center>27 de Agosto de 2025</td>
+      <td align=center>Artificial Intelligence Security: Main Attacks Using MCP Servers and How to Avoid Them!</td>
+      <td align=center>In this video, learn about the main types of attacks that Artificial Intelligence solutions using MCP Servers are susceptible to (Poisoned Tool Descriptions, Tool Name Collisions, Malicious Prompt Templates, etc.), as well as security tips and best practices for employing resources that use the Model Context Protocol (MCP) in your projects!
+</td>
+      <td align=center><a href="https://www.youtube.com/watch?v=tuLGlpRKPXQ">Link</a></td>
       <td align=center><a href="">Link</a></td>
   </tr>  
   <tr>
@@ -245,6 +254,15 @@ Assista esse corte e entenda:
       <td align=center><a href="">Link</a></td>
   </tr>  
   <tr>
+      <td align=center>24</td>
+      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center><a href="">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>  
+    <tr>
       <td align=center>24</td>
       <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
       <td align=center></td>
