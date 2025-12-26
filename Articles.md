@@ -1,1 +1,3 @@
-
+- https://carlosmachel.com/entendendo-a-biblioteca-azure-ai-persistent-agents
+- https://medium.com/@carlosmachel_46688/entendendo-model-context-protocol-mcp-4026f3bcc3af
+- https://medium.com/@carlosmachel_46688/introdu%C3%A7%C3%A3o-ao-microsoft-agent-framework-091e9c13de4d
