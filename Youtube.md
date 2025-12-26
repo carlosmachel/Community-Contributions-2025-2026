@@ -129,11 +129,11 @@ Assista esse corte e entenda:
   </tr>
   <tr>
       <td align=center>11</td>
-      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
-      <td align=center></td>
-      <td align=center></td>
-      <td align=center></td>
-      <td align=center><a href="">Link</a></td>
+      <td align=center><a href="https://www.youtube.com/@CodingNight">CodingNight</a></td>
+      <td align=center>28 de Julho 2025</td>
+      <td align=center>Mesa Redonda #230: Open source de A a Z - projetos, dicas, possibilidades... | 18a edição</td>
+      <td align=center>Confira neste novo evento ONLINE e GRATUITO do canal Coding Night mais uma live da série cobrindo soluções open source e sua utilização nos mais variados cenários... Um bate-papo descontraído sobre diferentes projetos, dicas, ferramentas, containerização, Inteligência Artificial, possibilidades de uso e muito mais!</td>
+      <td align=center><a href="https://www.youtube.com/watch?v=NgS31Twy1Io">Link</a></td>
       <td align=center><a href="">Link</a></td>
   </tr>
   <tr>
