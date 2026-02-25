@@ -14,7 +14,6 @@
     <td align=center><b>Link Linkedin</b></td>
   </tr>  
   <tr>
- <tr>
     <td align=center>1</td>
     <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
     <td align=center>25/02/2025</td>
@@ -71,8 +70,17 @@ Neste vídeo, vamos demonstrar como usar o serviço na prática. Primeiro, vamos
       <td align=center><a href="https://www.youtube.com/watch?v=RjGYnaSJ-ZM&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=7">Link</a></td>
       <td align=center><a href="">Link</a></td>
   </tr>
+  <tr>
+  <td align=center>6</td>
+      <td align=center><a href="https://www.youtube.com/@CanalDotNET">CanalDotNet</a></td>
+      <td align=center>24/06/2025</td>
+      <td align=center>Fundamentos de Inteligência Artificial: Agents, Assistants, Bots, Observabilidade...</td>
+      <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=f1QGl5Z_Jws&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=6">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
     <tr>
-      <td align=center>6</td>
+      <td align=center>7</td>
       <td align=center><a href="https://www.youtube.com/@CanalDotNET">CanalDotNet</a></td>
       <td align=center>24/06/2025</td>
       <td align=center>Fundamentos de Inteligência Artificial: Model Context Protocol (MCP) - O que é, benefícios...</td>
@@ -81,7 +89,7 @@ Neste vídeo, vamos demonstrar como usar o serviço na prática. Primeiro, vamos
       <td align=center><a href="">Link</a></td>
   </tr>
 <tr>
-      <td align=center>7</td>
+      <td align=center>8</td>
        <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
       <td align=center>26/06/2025</td>
       <td align=center>Desvendando a Carreira de TI: Por Onde Começar e Como Crescer</td>
@@ -96,7 +104,7 @@ Neste evento exclusivo, você vai:
       <td align=center><a href="">Link</a></td>
   </tr>
    <tr>
-      <td align=center>8</td>
+      <td align=center>9</td>
       <td align=center><a href="https://www.youtube.com/@CanalDotNET">CanalDotNet</a></td>
       <td align=center>10/07/2025</td>
       <td align=center>Fundamentos de Inteligência Artificial: A2A - Agent2Agent - uma visão geral do protocolo</td>
@@ -105,7 +113,7 @@ Neste evento exclusivo, você vai:
       <td align=center><a href="">Link</a></td>
   </tr>
    <tr>
-      <td align=center>9</td>
+      <td align=center>10</td>
       <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
       <td align=center>10/07/2025</td>
       <td align=center>Banalização da IA para decisões estratégicas</td>
@@ -114,7 +122,7 @@ Neste evento exclusivo, você vai:
       <td align=center><a href="">Link</a></td>
   </tr>
  <tr>
-      <td align=center>10</td>
+      <td align=center>11</td>
       <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
       <td align=center>18 Julho 2025</td>
       <td align=center>Prompt Engineering: Por que a IA pode estar te dando respostas erradas?</td>
@@ -128,7 +136,7 @@ Assista esse corte e entenda:
       <td align=center><a href="">Link</a></td>
   </tr>
   <tr>
-      <td align=center>11</td>
+      <td align=center>12</td>
       <td align=center><a href="https://www.youtube.com/@CodingNight">CodingNight</a></td>
       <td align=center>28 de Julho 2025</td>
       <td align=center>Mesa Redonda #230: Open source de A a Z - projetos, dicas, possibilidades... | 18a edição</td>
@@ -137,7 +145,7 @@ Assista esse corte e entenda:
       <td align=center><a href="">Link</a></td>
   </tr>
   <tr>
-      <td align=center>12</td>
+      <td align=center>13</td>
       <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
       <td align=center>31 de Julho de 2025</td>
       <td align=center>Fundamentos de Inteligência Artificial (AI) – Ferramentas, Boas Práticas e Aplicações</td>
@@ -153,7 +161,7 @@ Nesta live para profissionais de TI e líderes de tecnologia:
       <td align=center><a href="">Link</a></td>
   </tr>  
   <tr>
-      <td align=center>13</td>
+      <td align=center>14</td>
       <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
       <td align=center>7 de Agosto de 2025</td>
       <td align=center>Como implementar um Agente Azure AI Foundry integrado ao Model Context Protocol (MCP) em C#</td>
@@ -162,114 +170,250 @@ Nesta live para profissionais de TI e líderes de tecnologia:
       <td align=center><a href="">Link</a></td>
   </tr>
   <tr>
-      <td align=center>14</td>
+      <td align=center>15</td>
       <td align=center><a href="https://www.youtube.com/@CanalDotNET">CanalDotNet</a></td>
       <td align=center>21 de Agosto de 2025</td>
-      <td align=center>Best practices in Artificial Intelligence: security tips and recommendations with MCP Servers</td>
-      <td align=center>Check out this video for a discussion covering the risks and essential security precautions when implementing integration with MCP Servers in Artificial Intelligence projects... Best practices, supporting technologies, issues involving the use of containers/packages, cloud services, and much more!
+      <td align=center>Boas práticas em inteligencia artificial: Security tips and recommendations with mcp servers</td>
+      <td align=center>
 </td>
       <td align=center><a href="https://www.youtube.com/watch?v=U7TNxzI07C4">Link</a></td>
       <td align=center><a href="">Link</a></td>
   </tr>  
   <tr>
-      <td align=center>15</td>
-      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+      <td align=center>16</td>
+      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud"></a></td>
       <td align=center>27 de Agosto de 2025</td>
       <td align=center>Artificial Intelligence Security: Main Attacks Using MCP Servers and How to Avoid Them!</td>
       <td align=center>In this video, learn about the main types of attacks that Artificial Intelligence solutions using MCP Servers are susceptible to (Poisoned Tool Descriptions, Tool Name Collisions, Malicious Prompt Templates, etc.), as well as security tips and best practices for employing resources that use the Model Context Protocol (MCP) in your projects!
 </td>
       <td align=center><a href="https://www.youtube.com/watch?v=tuLGlpRKPXQ">Link</a></td>
       <td align=center><a href="">Link</a></td>
-  </tr>  
-  <tr>
-      <td align=center>16</td>
-      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
-      <td align=center></td>
-      <td align=center></td>
-      <td align=center></td>
-      <td align=center><a href="">Link</a></td>
-      <td align=center><a href="">Link</a></td>
-  </tr>  
+  </tr>
   <tr>
       <td align=center>17</td>
-      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
       <td align=center></td>
       <td align=center></td>
+      <td align=center>O Que Você Precisa Saber sobre Prompt Injection</td>
       <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=JUqSO07-xRk&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=17">Link</a></td>
       <td align=center><a href="">Link</a></td>
-      <td align=center><a href="">Link</a></td>
-  </tr>  
+  </tr>
   <tr>
       <td align=center>18</td>
-      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
       <td align=center></td>
       <td align=center></td>
+      <td align=center>Mesa Redonda #233: Open source de A a Z - projetos, dicas, possibilidades... | 19a edição</td>
       <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=Hd2kmAYUZ1k&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=18">Link</a></td>
       <td align=center><a href="">Link</a></td>
-      <td align=center><a href="">Link</a></td>
-  </tr>  
+  </tr>
   <tr>
       <td align=center>19</td>
-      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
       <td align=center></td>
       <td align=center></td>
+      <td align=center>IA na Prática: Exemplos Reais e Ferramentas Para Aplicar Inteligência Artificial Agora!</td>
       <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=at3XzrMv0nw&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=19">Link</a></td>
       <td align=center><a href="">Link</a></td>
-      <td align=center><a href="">Link</a></td>
-  </tr>  
+  </tr>
   <tr>
       <td align=center>20</td>
-      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
       <td align=center></td>
       <td align=center></td>
+      <td align=center>Como Implementar o Protocolo A2A em .NET</td>
       <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=-5dikXfH-G0&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=20">Link</a></td>
       <td align=center><a href="">Link</a></td>
-      <td align=center><a href="">Link</a></td>
-  </tr>  
+  </tr>
   <tr>
       <td align=center>21</td>
-      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
       <td align=center></td>
       <td align=center></td>
+      <td align=center>Microsoft Agent Framework na prática</td>
       <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=7fV5VeOMGdo&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=21">Link</a></td>
       <td align=center><a href="">Link</a></td>
-      <td align=center><a href="">Link</a></td>
-  </tr>  
+  </tr>
   <tr>
       <td align=center>22</td>
-      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
       <td align=center></td>
       <td align=center></td>
+      <td align=center>Microsoft Agent Framework: Introdução Completa</td>
       <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=nrFJkc8laj8&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=22">Link</a></td>
       <td align=center><a href="">Link</a></td>
-      <td align=center><a href="">Link</a></td>
-  </tr>  
+  </tr>
   <tr>
       <td align=center>23</td>
-      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
       <td align=center></td>
       <td align=center></td>
+      <td align=center>Monitoramento e Observabilidade em IA: Como Evitar Erros e Garantir Resultados</td>
       <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=05pPSBFa7Wk&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=23">Link</a></td>
       <td align=center><a href="">Link</a></td>
-      <td align=center><a href="">Link</a></td>
-  </tr>  
+  </tr>
   <tr>
       <td align=center>24</td>
-      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
       <td align=center></td>
       <td align=center></td>
+      <td align=center>Microsoft Agent Framework: Explorando Contexto e Threads</td>
       <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=Qi8Ys1dXLM0&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=24">Link</a></td>
       <td align=center><a href="">Link</a></td>
-      <td align=center><a href="">Link</a></td>
-  </tr>  
-    <tr>
-      <td align=center>24</td>
-      <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
+  </tr>
+  <tr>
+      <td align=center>25</td>
       <td align=center></td>
       <td align=center></td>
+      <td align=center>OWASP Top 10 Risks for Open Source Software + Vulnerabilities in Application Dependencies</td>
       <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=3ClYzPiCuEY&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=25">Link</a></td>
       <td align=center><a href="">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>26</td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center>OWASP Top 10 Risks for Open Source Software: Packages and Dependencies with Compromised Security</td>
+      <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=cScCo1rBdKk&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=26">Link</a></td>
       <td align=center><a href="">Link</a></td>
-  </tr>  
+  </tr>
+  <tr>
+      <td align=center>27</td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center>Microsoft Ignite 2025: principais novidades - Azure, IA, Dados e muito mais!</td>
+      <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=biif288dofg&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=27">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>28</td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center>New in MCP + AI: Free Certification, Linux Foundation, Agentic AI Foundation...</td>
+      <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=uvCbxLpbTNo&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=28">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>29</td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center>Roadmap da IA para 2026: inovações e impactos que você precisa conhecer</td>
+      <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=s8z-HY8EBAU&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=29">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>30</td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center>OWASP MCP Top 10: Security in Integration with Artificial Intelligence</td>
+      <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=HUuAs9R9Hag&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=30">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>31</td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center>Live #113: Carreira em Nuvem - Como se preparar para 2026?</td>
+      <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=8EXuboPCFIc&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=31">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>32</td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center>Microsoft Ignite 2025: principais novidades - Azure, IA, Containers e muito mais! | Parte 2</td>
+      <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=YO9OU-Dwlnk&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=32">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>33</td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center>Como construir agentes no novo Microsoft Foundry com Response API</td>
+      <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=o0dfpQ8gIb8&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=33">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>34</td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center>Microsoft Agent Framework: Tenha Controle Total Integre AI Functions e Aprovações Humanas</td>
+      <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=d-QwElK-YBY&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=34">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>35</td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center>RAG Básico no Microsoft Foundry: Como Adicionar Pesquisa de Arquivos Passo a Passo</td>
+      <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=Dssx_oJJq8E&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=35">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>36</td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center>Live #114: Desenvolvimento de Aplicações x Uso de IA - Prós e Contras</td>
+      <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=mwmkaP8T6gs&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=36">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>37</td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center>Como Usar Microsoft Agent Framework Middleware para Melhorar Segurança</td>
+      <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=Wz2AQ8ntNr0&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=37">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>38</td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center>Extraindo Dados de Imagens com Microsoft Agent Framework (Exemplo Real)</td>
+      <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=5TfGmLdmBQo&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=38">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>39</td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center>Explorando o Novo Microsoft Foundry: Agentes, Ferramentas e Modelos em Ação</td>
+      <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=Bc0m-cYBRwA&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=39">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>40</td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center>Memória no Microsoft Agent Framework: Adicionando Contexto ao Usuário</td>
+      <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=qwW7bGwGFQM&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=40">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>41</td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center>Jornada do Arquiteto Azure: o exame AZ-305 em detalhes! | 44a edição</td>
+      <td align=center></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=CWPWpUVkzRE&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=41">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+
 </table>  
     
