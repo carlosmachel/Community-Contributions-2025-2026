@@ -8,6 +8,8 @@
 Fui um dos organizadores do evento AI Weekend, palestrei com a palestra Criando Workflow com Multi-Agentes com Microsoft Agent Framework e participei de um painel 
 com o tema Desenvolvimento de Aplicações x Uso de IA -> Prós e Contras.
 
-github com todas as fotos e informações gerais do evento: https://github.com/DotNetSP/ai-weekend-2026-01/tree/main
+Durante a palestra eu expus sobre os conceitos de Agentes, Workflows, Microsoft Agent Framework. Mostrei uma demo com um workflow e 3 multi agentes onde cada agente chamava uma AI Function.
+
+Github com todas as fotos e informações gerais do evento: https://github.com/DotNetSP/ai-weekend-2026-01/tree/main
 
 [See images](./Images)
