@@ -2,7 +2,7 @@
 
 **Name:**
 **Date:** 
-**LinkedIn post:** [LinkedIn Post]()  
+**LinkedIn post:** 
 **Location:** São Paulo, SP - Brazil
 
 Apresentações que aconteceram durante o evento:

@@ -9,4 +9,5 @@
 
 | Date      | Title | Description   | Link         | LinkedIn |
 |-----------|-------|---------------|--------------|--------------|
-| |  |[https://carlosmachel.com/entendendo-a-biblioteca-azure-ai-persistent-agents](https://carlosmachel.com/entendendo-a-biblioteca-azure-ai-persistent-agents)  |  |
+| |  |[https://carlosmachel.com/entendendo-a-biblioteca-azure-ai-persistent-agents](https://carlosmachel.com/entendendo-a-biblioteca-azure-ai-persistent-agents)  | 
+https://www.linkedin.com/posts/carlosmachel_azureai-llmengineering-persistentagents-activity-7351221893242224640-w0NQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg |
