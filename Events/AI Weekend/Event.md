@@ -1,7 +1,7 @@
 ### Event Details
 
 **Name:** AI Weekend
-**Date:** 
+**Date:** 31 de Janeiro de 2026
 **LinkedIn post:** [LinkedIn Post]()  
 **Location:** São Paulo, SP - Brazil
 

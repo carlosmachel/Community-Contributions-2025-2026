@@ -1,7 +1,7 @@
 ### Event Details
 
-**Name:**
-**Date:** 
+**Name:** VS Code Dev Day
+**Date:** 06 de Setembro de 2025.
 **LinkedIn post:** 
 **Location:** São Paulo, SP - Brazil
 
@@ -19,6 +19,6 @@ E tivemos ainda uma sessão prática com o Workshop "Integre MCP com GitHub Copi
 
 Tecnologias e tópicos abordados: Inteligência Artificial, LLMs, MCP, GitHub Copilot, Visual Studio Code, Docker, Python, Linux, GitHub Codespaces...
 
-
+Github com mais informações: https://github.com/DotNetSP/vscode-dev-days-2025-09-taboao
 
 [See images](./Images)
