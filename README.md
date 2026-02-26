@@ -11,7 +11,7 @@ Contributions from Feb 2025 to Feb 2026.
 
 ## Contributions
 
-- [Articles](./Articles/CarlosMachel.com/Articles)
+- [Articles](./Articles)
 
 - [Events](./Events)
 
