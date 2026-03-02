@@ -1,23 +1,26 @@
 Repos details
-Number of contributions: 12
-First contribution date: 24 de Fevereiro de 2025
+Number of contributions: 10
+First contribution date: May 23, 2025
 Last contribution date: 
+ 
+This is my public [Github](https://github.com/carlosmachel), where I share a collection of projects that reflect my continuous journey of learning and experimentation. All repositories are open and free for anyone who wants to explore, use, and build on top of them.
 
-This is my public GitHub: https://github.com/carlosmachel. Here, you can discover a variety of my projects, all freely available for anyone to explore and use. My mission is to continuously learn, grow, and support others by sharing my work and insights. Whether you're in search of detailed code samples, innovative project ideas, or a spark of inspiration, you'll find valuable resources in my repositories. Explore, utilize, and together, let's make meaningful contributions to the community.
+My goal is to keep improving as a developer while contributing to the community by sharing practical examples, real projects, and the lessons I learn along the way — especially around AI, cloud, and modern software engineering.
+
+If you’re looking for hands-on code samples, ideas for new projects, or simply some inspiration for your own work, feel free to explore my repositories.
+Let’s learn together and create solutions that truly make a difference.
 
 Contributions
 
-| Repositories                                                                                   |
-|------------------------------------------------------------------------------------------------|
-|https://github.com/carlosmachel/azure-video-indexer                  |
-|https://github.com/carlosmachel/azure-ai-vision                  |
-|https://github.com/carlosmachel/azure-ai-agents-code-interpreter-tool                  |
-|https://github.com/carlosmachel/azure-semantic-kernel                  |
-|https://github.com/carlosmachel/azure-ai-agents-basic                  |
-|https://github.com/carlosmachel/azure-ai-agent-mcp                  |
-|https://github.com/carlosmachel/microsoft-agent-framework-basic-sample                  |
-|https://github.com/carlosmachel/data-saturday-2025                  |
-|https://github.com/carlosmachel/response-api-vectorstore                  |
-|https://github.com/carlosmachel/maf-workflow-multiagents                  |
-|https://github.com/carlosmachel/response-api-agent-basic                  |
-|https://github.com/carlosmachel/maf-playlist                  |
+| Repositories| First Commit|
+|-----------|-------|
+|https://github.com/carlosmachel/azure-ai-agents-code-interpreter-tool                  |May 23, 2025| 
+|https://github.com/carlosmachel/azure-semantic-kernel                  |Jun 9, 2025 | 
+|https://github.com/carlosmachel/azure-ai-agents-basic                  |Jul 15, 2025|
+|https://github.com/carlosmachel/azure-ai-agent-mcp                  |Aug 1, 2025
+|https://github.com/carlosmachel/microsoft-agent-framework-basic-sample                  |Oct 13, 2025|
+|https://github.com/carlosmachel/maf-playlist                  |Nov 4, 2025|
+|https://github.com/carlosmachel/data-saturday-2025                  |Nov 9, 2025|
+|https://github.com/carlosmachel/response-api-vectorstore                  |Jan 28, 2026|
+|https://github.com/carlosmachel/maf-workflow-multiagents                  |Jan 27 2026|
+|https://github.com/carlosmachel/response-api-agent-basic                  |Jan 12 2026 |

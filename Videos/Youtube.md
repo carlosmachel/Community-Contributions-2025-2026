@@ -13,38 +13,30 @@
     <td align=center><b>Link</b></td>
     <td align=center><b>Link Linkedin</b></td>
   </tr>  
-  <tr>
+   <tr>
     <td align=center>1</td>
     <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
-    <td align=center>25 de Fevereiro de 2025</td>
-    <td align=center>Revolucione Seus Vídeos com Azure AI Video Indexer: Aprenda a Dominar Essa Ferramenta!</td>
-    <td>Nesse vídeo, eu apresentei o Azure AI Video Indexer, uma ferramenta da Microsoft que utiliza inteligência artificial para analisar vídeos e extrair insights automáticos de forma consolidada. Expliquei que o serviço integra diversas tecnologias em um único produto, como reconhecimento facial, fala para texto, OCR, detecção de objetos e análise de sentimentos e emoções.
-Destaquei que, no portal Azure, o recurso deve ser pesquisado individualmente e exige a criação de uma Storage Account para armazenar os dados gerados. Também mencionei a necessidade de um termo de compromisso específico para a identificação de figuras públicas.
-Demonstrei o uso prático tanto pelo portal quanto via API, utilizando a autenticação via terminal e recomendando o uso de URLs com SAS Tokens para uploads mais estáveis. Por fim, mostrei que os resultados podem ser consumidos via arquivo JSON ou incorporados em sites através de widgets, incluindo a geração automática de legendas e traduções para diversos idiomas.</td>
-    <td align=center><a href="https://www.youtube.com/watch?v=QMt7yAZPj58&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9">Link</a></td>
-    <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_revolucione-seus-v%C3%ADdeos-com-azure-ai-video-activity-7300482421748080641-OKlj?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
-  </tr>
-   <tr>
-    <td align=center>2</td>
-    <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
     <td align=center>20 de Março de 2025</td>
-    <td align=center>Explorando o Azure Computer Vision: Análise de Imagens Simplificada com IA</td>
-    <td>Nesse vídeo, eu apresentei o Azure Computer Vision como pilar estratégico do ecossistema de IA da Microsoft, focado na simplificação da análise de imagens através de modelos pré-treinados de alta performance. A arquitetura do serviço permite a extração de metadados técnicos precisos, como coordenadas espaciais de objetos e etiquetas descritivas, facilitando a automação de processos visuais complexos. O reconhecimento óptico de caracteres está integrado ao serviço, permitindo a leitura eficiente de textos manuscritos ou impressos diretamente em fluxos de visão computacional.
-Para o desenvolvimento, o Vision Studio funciona como o ambiente essencial de experimentação e ajuste de parâmetros, onde validamos as funcionalidades visuais antes da integração definitiva via SDK ou APIs REST. Um destaque importante é o recurso de recortes inteligentes, o Smart Crops, que identifica as sub-regiões mais relevantes de uma imagem. Essa funcionalidade fornece coordenadas exatas para a criação de miniaturas otimizadas que priorizam rostos ou elementos centrais, garantindo uma adaptação visual inteligente e tecnicamente precisa para aplicações profissionais em escala.</td>
+    <td align=center>Exploring Azure Computer Vision: Simplified Image Analysis with AI</td>
+    <td>Nesse vídeo, eu apresento o Azure Computer Vision como um pilar estratégico do ecossistema de Inteligência Artificial da Microsoft, destacando como o serviço simplifica a análise de imagens por meio de modelos pré-treinados de alta performance, voltados para cenários reais de Desenvolvimento de soluções baseadas em visão computacional.
+    Abordo a arquitetura do serviço e sua capacidade de extrair metadados técnicos precisos, como coordenadas espaciais de objetos e etiquetas semânticas, viabilizando a automação de processos visuais complexos em aplicações corporativas de Inteligência Artificial. Também demonstro o uso integrado de reconhecimento óptico de caracteres (OCR) para leitura eficiente de textos manuscritos e impressos diretamente em pipelines de visão computacional.
+    No contexto de Desenvolvimento, apresento o Vision Studio como ambiente principal de experimentação, validação de modelos e ajuste de parâmetros antes da integração definitiva via SDKs ou APIs REST. Por fim, destaco o recurso de Smart Crops, que identifica automaticamente as regiões mais relevantes da imagem e fornece coordenadas exatas para geração de miniaturas otimizadas, priorizando rostos ou elementos centrais, contribuindo para aplicações profissionais escaláveis baseadas em Inteligência Artificial.</td>
     <td align=center><a href="https://www.youtube.com/watch?v=vlpNURkBpTU&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=2">Link</a></td>
     <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_revolucione-seus-v%C3%ADdeos-com-azure-ai-video-activity-7300482421748080641-OKlj?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
   </tr>
     <tr>
-    <td align=center>3</td>
+    <td align=center>2</td>
     <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
     <td align=center>10 de Abril de 2025</td>
-      <td align=center>Desvendando o Azure AI Custom Vision: Classificação e Detecção de Objetos!</td>
-    <td align=center>Nesse vídeo, apresentei o Azure AI Custom Vision, serviço para modelos personalizados estruturado entre recursos de treinamento e predição via Portal ou SDK. O sistema oferece classificação e detecção de objetos. Na classificação, destaquei a opção "Multiclass", com uma tag por imagem, e a "Multilabel", para múltiplas tags. A detecção identifica a tag e a "posição onde tá aquele objeto", exigindo ao menos "15 imagens por tag" para eficácia técnica. Abordei domínios compactos, que são "leves e podem ser exportados" para utilização mobile em iOS e Android. Para avaliar a performance, analisamos a precisão, definida como "qualidade da predição" para "evitar falsos positivos", e o recall, a "cobertura das predições" para "evitar falsos negativos". O "AP" consolida a "média geral" do modelo. A correta integração das chaves e o ajuste do threshold garantem que a solução de visão computacional entregue resultados técnicos sólidos e robustos em sua implementação final corporativa.</td>
+    <td align=center>Desvendando o Azure AI Custom Vision: Classificação e Detecção de Objetos!</td>
+    <td align=center>Nesse vídeo, eu apresento o Azure AI Custom Vision como um serviço estratégico do ecossistema de Inteligência Artificial da Microsoft, voltado ao Desenvolvimento de modelos de visão computacional personalizados, organizados em recursos independentes de treinamento e predição, com suporte tanto via Portal quanto por SDKs.
+    Demonstro, de forma prática, os dois principais cenários suportados pelo serviço: classificação de imagens e detecção de objetos. No caso de classificação, explico as diferenças entre os modos Multiclass, no qual cada imagem possui uma única tag, e Multilabel, que permite múltiplas tags por imagem. Já na detecção de objetos, apresento como o modelo identifica não apenas a categoria, mas também a posição exata do objeto na imagem, destacando a necessidade mínima recomendada de imagens por tag para garantir qualidade técnica em soluções de Inteligência Artificial.
+    Também abordo o uso de domínios compactos, que possibilitam a exportação de modelos leves para cenários mobile, reforçando boas práticas de Desenvolvimento para aplicações distribuídas. Por fim, explico os principais indicadores de avaliação — precision, recall e average precision (AP) — e como a correta configuração de chaves e do threshold é fundamental para entregar soluções corporativas de visão computacional robustas e confiáveis baseadas em Inteligência Artificial.</td>
     <td align=center><a href="https://www.youtube.com/watch?v=xCW5_kIyud8&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=3">Link</a></td>
     <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_azureai-customvision-ia-activity-7316145456525279232-JV9L?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
   </tr>
   <tr>
-      <td align=center>4</td>
+      <td align=center>3</td>
     <td align=center><a href="https://www.youtube.com/@azurebrasilcloud">AzureBrasil Cloud</a></td>
       <td align=center>30 de Abril de 2025</td>
       <td align=center>Alavanque sua Carreira em 2025: Certificações Azure em Foco! - 2a edição
@@ -524,5 +516,36 @@ O vídeo também trata da importância de um plano estruturado de resposta a inc
       <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_azure-cloud-devops-activity-7432202223541116929-fTjR?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
   </tr>
 
+ <tr>
+      <td align=center>40</td>
+      <td align=center></td>
+      <td align=center>24 de Fevereiro de 2026</td>
+      <td align=center>Memória no Microsoft Agent Framework: Adicionando Contexto ao Usuário</td>
+      <td align=center>
+      O vídeo, apresentado por Carlos Machel da AzureBrasil Cloud, é o sexto episódio de uma série sobre o Microsoft Agent Framework. O foco principal é o gerenciamento de memória em chatbots, abordando duas técnicas essenciais.
+A primeira é o salvamento do histórico de conversas em armazenamento externo, utilizando o Chat History Provider. Isso permite recuperar conversas anteriores de forma eficiente, sem sobrecarregar o estado atual da aplicação.
+A segunda técnica é o armazenamento de informações específicas do usuário, como nome e idade, por meio de um AI Context Provider, possibilitando interações personalizadas entre diferentes sessões.
+O vídeo também demonstra a combinação das duas funcionalidades simultaneamente, criando uma experiência conversacional mais natural e personalizada. O presenter destaca o uso de abstrações como o InMemoryVectorStore, que facilitam a migração para ambientes de produção. O objetivo final é construir agentes mais customizáveis e alinhados às regras de negócio, semelhantes a serviços como o ChatGPT.</td>
+      <td align=center><a href="https://www.youtube.com/watch?v=qwW7bGwGFQM&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=40">Link</a></td>
+      <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_fala-pessoal-v%C3%ADdeo-nesta-semana-p%C3%B3s-carnaval-activity-7432039813123448834-7kQ-?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>41</td>
+      <td align=center></td>
+      <td align=center></td>
+      <td align=center>Live da AzureBrasil</td>
+      <td align=center></td>
+      <td align=center><a href="">Link</a></td>
+      <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_dia-de-live-na-azurebrasilcloud-vamos-falar-activity-7432826587143819266-bpDd?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>42</td>
+      <td align=center></td>
+      <td align=center>26 de Fevereiro de 2026</td>
+      <td align=center>Streaming no Microsoft Agent Framework: comunicaçãp com Frontend e métricas de tokens</td>
+      <td align=center>Nesse vídeo falando sobre Inteligência Artificial, Run Normal e via Streaming utilizando Microsoft Agent Framework e como fazer métrica de uso.</td>
+      <td align=center><a href="https://www.youtube.com/watch?v=lpUNu6Vdo7s">Link</a></td>
+      <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_fala-pessoal-quinta-feira-dia-de-v%C3%ADdeo-no-activity-7432890615287324672-_yQA?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
+  </tr>
 </table>  
     
