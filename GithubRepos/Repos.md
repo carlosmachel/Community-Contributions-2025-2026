@@ -12,12 +12,12 @@ Let’s learn together and create solutions that truly make a difference.
 
 Contributions
 
-| Repositories| First Commit|
+| Repositories| First Commit|README
 |-----------|-------|
-|https://github.com/carlosmachel/azure-ai-agents-code-interpreter-tool                  |May 23, 2025| 
-|https://github.com/carlosmachel/azure-semantic-kernel                  |Jun 9, 2025 | 
-|https://github.com/carlosmachel/azure-ai-agents-basic                  |Jul 15, 2025|
-|https://github.com/carlosmachel/azure-ai-agent-mcp                  |Aug 1, 2025
+|https://github.com/carlosmachel/azure-ai-agents-code-interpreter-tool                  |May 23, 2025|X| 
+|https://github.com/carlosmachel/azure-semantic-kernel                  |Jun 9, 2025 |X| 
+|https://github.com/carlosmachel/azure-ai-agents-basic                  |Jul 15, 2025|X|
+|https://github.com/carlosmachel/azure-ai-agent-mcp                  |Aug 1, 2025|
 |https://github.com/carlosmachel/microsoft-agent-framework-basic-sample                  |Oct 13, 2025|
 |https://github.com/carlosmachel/maf-playlist                  |Nov 4, 2025|
 |https://github.com/carlosmachel/data-saturday-2025                  |Nov 9, 2025|
