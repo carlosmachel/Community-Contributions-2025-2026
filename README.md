@@ -1,11 +1,11 @@
 # Community-Contributions-2025-2026
-Contributions from Feb 2025 to Feb 2026.
+Contributions from March 2025 to March 2026.
 
 ## Areas of Contribution
 
+- AI
 - .NET
 - Azure
-- AI
 - Software development
 - and others
 
