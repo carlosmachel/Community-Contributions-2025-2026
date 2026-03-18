@@ -1,6 +1,6 @@
 # Youtube
 
-<b>Number of contributions: 42</b>
+<b>Number of contributions: 14</b>
 
 <table>
   <tr>
@@ -151,15 +151,22 @@ As best practices, they recommend consuming MCPs from trusted sources like the D
       <td align=center><a href="https://www.youtube.com/watch?v=Kk_aKMR65mE">Link</a></td>
       <td align=center><a href="">Link</a></td>
   </tr>
-  <tr>
+    <tr>
       <td align=center>14</td>
-      <td align=center>March 5, 2026</td>
-      <td align=center>Como Usar o DevUI do Microsoft Agent Framework para Monitorar Workflows na Prática</td>
-      <td align=center>This video from the Microsoft Agent Framework series demonstrates how to use DevUI to visually monitor and test agents and workflows. The tool provides a chat interface for real-time interactions, allowing developers to view event logs and detailed agent instructions.
-A key feature is the ability to track token consumption (input, output, and total) in both normal and streaming modes. The video also showcases how to inspect sequential workflows through an execution timeline, identifying specific "super steps" and tool calls, such as retrieving weather or the current time.
-Furthermore, the content explains the C# implementation process, highlighting that agents must be registered within the Dependency Injection (Service Collection) using specific methods like AddChatClient and MapDevUI. Although it is a port from Python with some current limitations in C# tracing, DevUI serves as a powerful observability tool for debugging and analyzing model performance during development. The goal is to provide developers with greater visual control over agent behavior in real-world scenarios
+      <td align=center>March 6, 2026</td>
+      <td align=center>Arquiteturas de Referência em Inteligência Artificial: uma visão geral do Microsoft Learn MCP Server</td>
+      <td align=center>Confira neste vídeo uma discussão sobre como o MCP Server do Microsoft Learn foi implementado: a escolha por uma aplicação que implementa o protocolo MCP ao invés de uma API REST convencional, o uso combinado de serviços como Azure App Service, Azure Blob Storage e Azure AI Search, quais fatores foram levados em consideração ao expor publicando um MCP Server na nuvem e muito mais!</td>
+      <td align=center><a href="https://www.youtube.com/watch?v=-8ow0yJfils">Link</a></td>
+      <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_ai-mcp-modelcontextprotocol-activity-7435805853699571712-7WP9?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
+  </tr>
+
+<tr>
+      <td align=center>15</td>
+      <td align=center>March 10, 2026</td>
+      <td align=center>Certificações Microsoft: novos exames e grandes mudanças para o ano de 2026!</td>
+      <td align=center>Confira neste evento ONLINE e GRATUITO do Canal .NET e do Coding Night uma série de mudanças previstas para exames de certificação da Microsoft: novos exames, certificações que serão aposentadas, o que estudar diante de um foco maior em soluções de Inteligência Artificial e muito mais!
 </td>
-      <td align=center><a href="https://www.youtube.com/watch?v=YkfJ7Jzz9_8">Link</a></td>
-      <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_microsoftagentframework-multiagentes-workflows-activity-7435328537525448704-HVRx?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=3kFud3sSxCU">Link</a></td>
+      <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_ai-microsoft-certifications-activity-7437485877867642880-tzGY?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
   </tr>
   </table>

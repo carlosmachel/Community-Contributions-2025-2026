@@ -261,7 +261,7 @@ The video also demonstrates combining both functionalities simultaneously, creat
       <td align=center>This live session explores MCP and A2A in practice, demonstrating how these protocols enable communication between agents, models, and services.
 The session includes live demos and real integrations with .NET, showing how to connect agents to APIs, external tools, and corporate flows.
 This content is aimed at those who work with Artificial Intelligence and want to go beyond the basics.</td>
-      <td align=center><a href="https://www.youtube.com/live/0gc5kQkSil0">Link</a></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=0gc5kQkSil0">Link</a></td>
       <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_dia-de-live-na-azurebrasilcloud-vamos-falar-activity-7432826587143819266-bpDd?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
   </tr>
    <tr>
@@ -276,4 +276,37 @@ The goal is to help developers instrument applications, track costs, analyze per
       <td align=center><a href="https://www.youtube.com/watch?v=lpUNu6Vdo7s">Link</a></td>
       <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_fala-pessoal-quinta-feira-dia-de-v%C3%ADdeo-no-activity-7432890615287324672-_yQA?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
   </tr>
+  <tr>
+      <td align=center>25</td>
+      <td align=center>March 5, 2026</td>
+      <td align=center>How to Use DevUI from Microsoft Agent Framework to Monitor Workflows in Practice</td>
+      <td align=center>This video from the Microsoft Agent Framework series demonstrates how to use DevUI to visually monitor and test agents and workflows. The tool provides a chat interface for real-time interactions, allowing developers to view event logs and detailed agent instructions.
+A key feature is the ability to track token consumption (input, output, and total) in both normal and streaming modes. The video also showcases how to inspect sequential workflows through an execution timeline, identifying specific "super steps" and tool calls, such as retrieving weather or the current time.
+Furthermore, the content explains the C# implementation process, highlighting that agents must be registered within the Dependency Injection (Service Collection) using specific methods like AddChatClient and MapDevUI. Although it is a port from Python with some current limitations in C# tracing, DevUI serves as a powerful observability tool for debugging and analyzing model performance during development. The goal is to provide developers with greater visual control over agent behavior in real-world scenarios
+</td>
+      <td align=center><a href="https://www.youtube.com/watch?v=YkfJ7Jzz9_8">Link</a></td>
+      <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_microsoftagentframework-multiagentes-workflows-activity-7435328537525448704-HVRx?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>26</td>
+      <td align=center>March 12, 2026</td>
+      <td align=center>Protocolos de IA em Ação: MCP, A2A e Integrações Reais com .NET - PARTE 2</td>
+      <td align=center>Na continuação desta série, vamos mostrar como levar MCP e A2A do experimental para o mundo real.
+A proposta aqui é simples: sair da teoria e entrar em cenários de produção, com agentes integrados a APIs, ferramentas externas, fluxos internos e aplicações .NET mais maduras.
+Se você quer entender como construir soluções de IA mais conectadas, escaláveis e úteis de verdade, esta live é o próximo passo.</td>
+      <td align=center><a href="https://www.youtube.com/watch?v=KprGEuSUlpg">Link</a></td>
+      <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_a2a-ai-mcp-activity-7437608070689599488-YTrK?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
+  </tr>
+  <tr>
+      <td align=center>27</td>
+      <td align=center>March 14, 2026</td>
+      <td align=center>AZBR Summit 2026 | Azure, IA e Arquitetura Moderna em Produção</td>
+      <td align=center>Bem-vindo ao AZBR Summit 2026.
+Um encontro técnico com Microsoft MVPs, Docker Captains e especialistas que estão na linha de frente do mercado, discutindo Azure, Inteligência Artificial, microsserviços, automação e decisões arquiteturais que realmente funcionam em produção.
+</td>
+      <td align=center><a href="https://www.youtube.com/watch?v=TrspBzjS_iw">Link</a></td>
+      <td align=center><a href="">Link</a></td>
+  </tr>
+
+  
   </table>
