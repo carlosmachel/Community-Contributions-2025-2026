@@ -13,7 +13,7 @@
   </tr>  
    <tr>
     <td align=center>1</td>
-    <td align=center>20 de Março de 2025</td>
+    <td align=center>March 20, 2025</td>
     <td align=center>Exploring Azure Computer Vision: Simplified Image Analysis with AI</td>
     <td align=center>This video presents Azure Computer Vision as a strategic pillar of Microsoft's Artificial Intelligence ecosystem, demonstrating how the service simplifies image analysis through high-performance pre-trained models designed for real-world Development scenarios of computer vision-based solutions.
     It covers the service architecture and its ability to extract precise technical metadata, such as spatial coordinates of objects and semantic labels, enabling the automation of complex visual processes in enterprise Artificial Intelligence applications. The video also demonstrates the integrated use of Optical Character Recognition (OCR) for efficient reading of handwritten and printed text directly within computer vision pipelines.
@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td align=center>2</td>
-    <td align=center>10 de Abril de 2025</td>
+    <td align=center>April 10, 2025</td>
     <td align=center>Unveiling Azure AI Custom Vision: Image Classification and Object Detection!</td>
     <td align=center>This video presents Azure AI Custom Vision as a strategic service within Microsoft's Artificial Intelligence ecosystem, focused on the Development of custom computer vision models organized into independent training and prediction resources, with support via both the Portal and SDKs.
     It provides a hands-on demonstration of the two main scenarios supported by the service: image classification and object detection. For classification, the video explains the differences between Multiclass mode, where each image has a single tag, and Multilabel mode, which allows multiple tags per image. For object detection, it shows how the model identifies not only the category but also the exact position of the object in the image, highlighting the minimum recommended number of images per tag to ensure technical quality in Artificial Intelligence solutions.
@@ -33,7 +33,7 @@
   </tr>
   <tr>
       <td align=center>3</td>
-      <td align=center>30 de Abril de 2025</td>
+      <td align=center>April 30, 2025</td>
       <td align=center>Boost Your Career in 2025: Azure Certifications in Focus – 2nd Edition</td>
       <td align=center>This session provides a comprehensive overview of Azure careers and certifications for 2025, with special emphasis on Artificial Intelligence and Data tracks. It discusses the AI-102 exam in depth, highlighting recent updates that now include agents and Azure AI Foundry. The video shares study methodology based on hands-on practice with services such as Computer Vision and Custom Vision. Additionally, AI-900 is recommended as a foundational baseline for general AI concepts and services like Document Intelligence.
 In the data vertical, it details the evolution of certifications focused on Microsoft Fabric, such as the DP-600 and DP-700 exams. Fabric is presented as a unified platform that integrates tools like Synapse and Power BI in a single capacity-based interface. The session also provides logistical guidance on free annual renewals, challenges of taking online exams, and the possibility of consulting official documentation during the exam.
@@ -43,7 +43,7 @@ In the data vertical, it details the evolution of certifications focused on Micr
   </tr>
   <tr>
       <td align=center>4</td>
-      <td align=center>26 de Junho de 2025</td>
+      <td align=center>June 26, 2025</td>
       <td align=center>Unveiling the IT Career Path: Where to Start and How to Grow</td>
       <td align=center>In this live session, the topics covered focused on paths to start and grow in an IT career, ranging from internships to senior positions. The experts emphasized the importance of mastering fundamentals such as programming logic, Git, and Linux before jumping into complex frameworks, combating the lack of focus that hinders many beginners. It was suggested to choose a solid initial language, such as C#, Java, or Python, to avoid being the "jack of all trades" who does everything but excels at nothing.
 To gain market visibility, it was recommended to structure your LinkedIn profile and maintain an updated GitHub or personal blog, demonstrating proactivity and "eager enthusiasm" for problem-solving. The discussion also addressed overcoming impostor syndrome and the relevance of soft skills, such as effective communication and business understanding. Finally, various free study sources were indicated, such as Microsoft Learning, while defending college education as an essential pillar for networking.
@@ -53,7 +53,7 @@ To gain market visibility, it was recommended to structure your LinkedIn profile
   </tr>
 <tr>
       <td align=center>5</td>
-      <td align=center>10 de Julho de 2025</td>
+      <td align=center>July 10, 2025</td>
       <td align=center>The Trivialization of AI in Strategic Decision-Making</td>
       <td align=center>This video discusses the dangers of trivializing AI, emphasizing that it should act as a "Copilot" and not as the final decision-maker. Allowing AI to decide without human supervision generates ethical and liability risks, as seen in cited medical and legal cases.
 AI effectiveness follows the "Garbage In, Garbage Out" principle: poorly structured or contextless data produces distorted responses or "hallucinations." Additionally, there are serious security and privacy concerns, exemplified by Samsung's data leak. Free or basic "Pro" models may use data for training; only Enterprise licenses typically offer contractual privacy guarantees.
@@ -63,7 +63,7 @@ Technically, indiscriminate use facilitates attacks such as Prompt Injection and
   </tr>
   <tr>
       <td align=center>6</td>
-      <td align=center>18 de Julho de 2025</td>
+      <td align=center>July 18, 2025</td>
       <td align=center>Prompt Engineering: Why Might AI Be Giving You Wrong Answers?</td>
       <td align=center>This video discusses how the way questions ("prompts") are written directly influences the responses generated by artificial intelligence systems, and that errors often attributed to AI are actually caused by poorly formulated prompts.
 It explains why vague or context-free prompts cause AI to generate unhelpful or inaccurate responses, because AI does not "guess" what users want—it simply follows the instructions it receives strictly.
@@ -74,7 +74,7 @@ Additionally, it shares basic prompt engineering tips, encouraging users to writ
   </tr>
   <tr>
       <td align=center>7</td>
-      <td align=center>31 de Julho de 2025</td>
+      <td align=center>July 31, 2025</td>
       <td align=center>Artificial Intelligence Fundamentals (AI) – Tools, Best Practices, and Applications</td>
       <td align=center>
     This live session details the AI Agents ecosystem and the new MCP (Model Context Protocol). It explains that agents function as engines that orchestrate LLMs and external tools through semantic descriptions for decision-making. Regarding security, the adoption of the principle of least privilege via Microsoft Entra ID and following the OWASP Top 10 guide for LLMs to mitigate "supply chain" risks are emphasized.
@@ -85,7 +85,7 @@ The session presents Azure AI Foundry Local, a tool that allows running models l
   </tr>  
   <tr>
       <td align=center>8</td>
-      <td align=center>7 de Agosto de 2025</td>
+      <td align=center>August 7, 2025</td>
       <td align=center>How to Implement an Azure AI Foundry Agent Integrated with the Model Context Protocol (MCP) in C#</td>
       <td align=center>
       This video explores the implementation of agents in Azure AI Foundry integrated with the Model Context Protocol (MCP) using the C# language. MCP, developed by Anthropic and supported by Microsoft, functions as a standard for communication between language models (LLMs) and external tools. The model does not execute tools directly; instead, it interprets semantic descriptions to decide which function to call, while the agent manages execution and conversation state through threads.
@@ -96,7 +96,7 @@ The technical demonstration highlights the use of the Microsoft SDK to define to
   </tr>
    <tr>
       <td align=center>9</td>
-      <td align=center>25 setembro de 2025</td>
+      <td align=center>September 25, 2025</td>
       <td align=center>AI in Practice: Real-World Examples and Tools to Apply Artificial Intelligence Now!</td>
       <td align=center>
       This video discusses practical AI implementations, focusing on the Model Context Protocol (MCP) and Agent-to-Agent (A2A) protocols. It presents A2A as a standard for facilitating dynamic discovery and communication between agents, demonstrating implementations in .NET and Semantic Kernel. Examples shown range from simple "echo" agents to complex flows involving currency exchange and travel services.
@@ -107,7 +107,7 @@ The video highlights .NET 10 news, introducing DNX, a tool that allows running p
   </tr>
   <tr>
       <td align=center>10</td>
-      <td align=center>10 de Outubro 2025</td>
+      <td align=center>October 10, 2025</td>
       <td align=center>How to Implement the A2A Protocol in .NET</td>
       <td align=center>This video details the implementation of the Agent-to-Agent (A2A) protocol in .NET, an initiative originally from Google and now maintained by the Linux Foundation. A2A aims to facilitate dynamic discovery and standardized communication between AI agents. Unlike MCP, which focuses on communication between LLMs and tools, A2A is designed for direct interaction between agents.
 The implementation in .NET uses concepts such as the "Agent Card," which describes the agent's capabilities so that LLMs can decide how to use it. The presenters demonstrate practical examples, from a simple "echo" server to complex integrations with Semantic Kernel for task automation. The protocol allows orchestrating multiple agents in heterogeneous and multi-cloud environments. However, it is noted that the framework is still very new (preview version) and presents security challenges, such as the need for mutual trust between autonomous agents and prompt injection risks.</td>
@@ -116,7 +116,7 @@ The implementation in .NET uses concepts such as the "Agent Card," which describ
   </tr>
   <tr>
       <td align=center>11</td>
-      <td align=center>16 de Outubro 2025</td>
+      <td align=center>October 16, 2025</td>
       <td align=center>Microsoft Agent Framework in Practice</td>
       <td align=center>
       This video presents the Microsoft Agent Framework, a tool that unifies Semantic Kernel and AutoGen. This integration combines AutoGen's multi-agent orchestration with Semantic Kernel's workflow functionalities, facilitating Development in C# and Python.
@@ -127,7 +127,7 @@ During the practical demonstration, integration with Azure AI Foundry is detaile
   </tr>
   <tr>
       <td align=center>12</td>
-      <td align=center>6 novembro de 2025</td>
+      <td align=center>November 6, 2025</td>
       <td align=center>Microsoft Agent Framework: Complete Introduction</td>
       <td align=center>
       The video "Microsoft Agent Framework: Complete Introduction" presents the unification of two important Microsoft open source projects: Semantic Kernel, focused on orchestration and monitoring, and AutoGen, aimed at multi-agent conversation. This new library uses the Microsoft.Extensions.AI base, an abstraction layer that offers flexibility to switch between various model providers, such as OpenAI, Gemini, and Llama, ensuring resilience and consistency in Development.
@@ -138,7 +138,7 @@ In practice, the tutorial demonstrates creating a console application, detailing
   </tr>
 <tr>
       <td align=center>13</td>
-      <td align=center>13 Novembro de 2025</td>
+      <td align=center>November 13, 2025</td>
       <td align=center>AI Monitoring and Observability: How to Avoid Errors and Ensure Results</td>
       <td align=center>
       This video covers monitoring and observability in AI, focusing on the use of the Microsoft Agent Framework and the OpenTelemetry standard. The experts demonstrate how to integrate native telemetry in .NET agents to trace execution flows, tool calls (function calling), and token consumption. It is highlighted that since agents can have unpredictable logic, detailed tracing is vital for understanding the actions executed under the hood.
@@ -149,7 +149,7 @@ The presentation details the use of Middlewares to implement Guardrails and PII 
   </tr>
   <tr>
       <td align=center>14</td>
-      <td align=center>21 de novembro de 2025</td>
+      <td align=center>November 21, 2025</td>
       <td align=center>Microsoft Agent Framework: Exploring Context and Threads</td>
       <td align=center>
       This video covers the technical implementation of threads and context to ensure data persistence in conversations with Artificial Intelligence agents. The main focus is solving the problem of lack of memory between interactions, demonstrating how to ensure the agent uses past information to contextualize future responses.
@@ -161,7 +161,7 @@ The content explains that, although the internal implementation varies between d
   </tr>
 <tr>
       <td align=center>15</td>
-      <td align=center>18 de Dezembro de 2025</td>
+      <td align=center>December 18, 2025</td>
       <td align=center>AI Roadmap for 2026: Innovations and Impacts You Need to Know</td>
       <td align=center>
       This video presents, in live format, the main trends and innovations expected for Artificial Intelligence in 2026. One highlight is Microsoft Foundry, a platform that promises to centralize AI services and facilitate the Development of autonomous agents, already available in preview.
@@ -174,7 +174,7 @@ The overall conclusion is that 2026 will be a year of maturation, focusing on in
   </tr>
   <tr>
       <td align=center>16</td>
-      <td align=center>15 de janeiro de 2026</td>
+      <td align=center>January 15, 2026</td>
       <td align=center>How to Build Agents in the New Microsoft Foundry Using the Response API</td>
       <td align=center>
       This video presents the migration from classic Microsoft Foundry to the new version. The main change is the replacement of the Persistent Agent and Threads library with the Response API in conjunction with the Conversation API.
@@ -187,7 +187,7 @@ The main advantages of the new approach include simplified workflows, more robus
   </tr>
   <tr>
       <td align=center>17</td>
-      <td align=center>22 de Janeiro de 2026</td>
+      <td align=center>January 22, 2026</td>
       <td align=center>Microsoft Agent Framework: Full Control with AI Functions and Human Approvals</td>
       <td align=center>This video from the AzureBrasil Cloud channel celebrates the milestone of 1,000 subscribers and covers how to make AI agents smarter and more secure using the Microsoft Agent Framework.
 The content explains how to enhance agents with AI Functions, using the GetWeather example to demonstrate how functions are described and converted into tools by the AI Function Factory. It then focuses on implementing human approval for sensitive functions—such as external resource consumption or data deletion—activated by the require approval property.
@@ -197,7 +197,7 @@ In the practical demonstration with a minimal API, the video shows the differenc
   </tr>
   <tr>
       <td align=center>18</td>
-      <td align=center>29 de Janeiro de 2026</td>
+      <td align=center>January 29, 2026</td>
       <td align=center>Basic RAG in Microsoft Foundry: How to Add File Search Step by Step</td>
       <td align=center>This video covers the implementation of the file search tool in Microsoft Azure AI Foundry, comparing the classic approach with Persistent Agents and the new version of the platform.
 In the old version, file content access was done through "threads," requiring more manual configuration. In the new Foundry, tools are associated directly with the agent, simplifying the process. The tutorial demonstrates step by step how to create an agent, build a Vector Store, upload files, and link the search tool.
@@ -208,7 +208,7 @@ The main technologies covered include Azure AI Foundry, Vector Store, File Searc
   </tr>
   <tr>
       <td align=center>19</td>
-      <td align=center>5 de Fevereiro de 2026</td>
+      <td align=center>February 5, 2026</td>
       <td align=center>How to Use Microsoft Agent Framework Middleware to Improve Security</td>
       <td align=center>
       This video from the AzureBrasil Cloud channel explores the use of middlewares in the Microsoft Agent Framework. Middlewares function as intermediaries between agent requests and responses, allowing behavior to be intercepted, inspected, and modified at different stages of the flow.
@@ -220,7 +220,7 @@ The framework stands out for its flexibility, enabling middlewares to be added o
   </tr>
   <tr>
       <td align=center>20</td>
-      <td align=center>12 de Fevereiro de 2026</td>
+      <td align=center>February 12, 2026</td>
       <td align=center>Extracting Data from Images with Microsoft Agent Framework (Real-World Example)</td>
       <td align=center>
       This video, part of the series on the Microsoft Agent Framework, demonstrates how to create an API capable of analyzing work order images and generating structured outputs in JSON.
@@ -233,7 +233,7 @@ The video also covers the use of streaming for structured outputs, where updates
   </tr>
   <tr>
       <td align=center>21</td>
-      <td align=center>19 de Fevereiro de 2026</td>
+      <td align=center>February 19, 2026</td>
       <td align=center>Exploring the New Microsoft Foundry: Agents, Tools, and Models in Action</td>
       <td align=center>
       This technical webinar covers the Microsoft Foundry platform, focused on the Development and orchestration of AI agents. It explains the evolution of Microsoft's AI platforms up to the centralized Foundry, comparing it to Microsoft Fabric for data.
@@ -244,7 +244,7 @@ The video explores debugging and observability tools, allowing agent decisions t
   </tr>
   <tr>
       <td align=center>22</td>
-      <td align=center>24 de Fevereiro de 2026</td>
+      <td align=center>February 24, 2026</td>
       <td align=center>Memory in Microsoft Agent Framework: Adding User Context</td>
       <td align=center>
       This video, the sixth episode of a series on the Microsoft Agent Framework from the AzureBrasil Cloud channel, focuses on memory management in chatbots, covering two essential techniques.
@@ -256,7 +256,7 @@ The video also demonstrates combining both functionalities simultaneously, creat
   </tr>
   <tr>
       <td align=center>23</td>
-      <td align=center>26 de Fevereiro de 2026</td>
+      <td align=center>February 26, 2026</td>
       <td align=center>AI Protocols in Action: MCP, A2A, and Real-World Integrations with .NET</td>
       <td align=center>This live session explores MCP and A2A in practice, demonstrating how these protocols enable communication between agents, models, and services.
 The session includes live demos and real integrations with .NET, showing how to connect agents to APIs, external tools, and corporate flows.
@@ -266,7 +266,7 @@ This content is aimed at those who work with Artificial Intelligence and want to
   </tr>
    <tr>
       <td align=center>24</td>
-      <td align=center>26 de Fevereiro de 2026</td>
+      <td align=center>February 26, 2026</td>
       <td align=center>Streaming in Microsoft Agent Framework: Frontend Communication and Token Metrics</td>
       <td align=center>This seventh video of the series on the Microsoft Agent Framework demonstrates in practice how to implement streaming in agent calls and how real-time communication with the frontend works.
 The video explains how to structure the response in streaming mode, what differences exist compared to traditional mode, and how this impacts user experience.

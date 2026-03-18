@@ -5,20 +5,21 @@
 **LinkedIn post:** 
 **Location:** São Paulo, SP - Brazil
 
-Apresentações que aconteceram durante o evento:
+Here are the presentations that took place during the event:
 
-# Comece a utilizar o GitHub Copilot no VS Code
+Getting Started with GitHub Copilot in VS Code
 
-Tecnologias e tópicos abordados: Visual Studio Code, GitHub Copilot, Agents, IAs Generativas, LLMs...
+Technologies and topics covered: Visual Studio Code, GitHub Copilot, Agents, Generative AI, LLMs
 
-# Entendendo o que é MCP (Model Context Protocol)
+Understanding MCP (Model Context Protocol)
 
-Tecnologias e tópicos abordados: Inteligência Artificial, LLMs, MCP, GitHub Copilot, Visual Studio Code, Docker, Docker MCP Catalog, .NET, ASP.NET Core, C#, Java, Node.js, Python, OpenAI, Linux...
+Technologies and topics covered: Artificial Intelligence, LLMs, MCP, GitHub Copilot, Visual Studio Code, Docker, Docker MCP Catalog, .NET, ASP.NET Core, C#, Java, Node.js, Python, OpenAI, Linux
 
-E tivemos ainda uma sessão prática com o Workshop "Integre MCP com GitHub Copilot¨.
+Hands-on Workshop: Integrating MCP with GitHub Copilot
 
-Tecnologias e tópicos abordados: Inteligência Artificial, LLMs, MCP, GitHub Copilot, Visual Studio Code, Docker, Python, Linux, GitHub Codespaces...
+Technologies and topics covered: Artificial Intelligence, LLMs, MCP, GitHub Copilot, Visual Studio Code, Docker, Python, Linux, GitHub Codespaces
 
-Github com mais informações: https://github.com/DotNetSP/vscode-dev-days-2025-09-taboao
+For more information, check out the GitHub repository:
+https://github.com/DotNetSP/vscode-dev-days-2025-09-taboao
 
 [See images](./Images)

@@ -12,9 +12,8 @@
     <td align=center><b>Link Linkedin</b></td>
   </tr>  
   <tr>
-  <td align=center>5</td>
-      <td align=center><a href="https://www.youtube.com/@CanalDotNET">CanalDotNet</a></td>
-      <td align=center>18 de Junho de 2025</td>
+  <td align=center>1</td>
+      <td align=center>June 18, 2025</td>
       <td align=center>Artificial Intelligence Fundamentals: Agents, Assistants, Bots, Observability…</td>
       <td align=center>In this live session, the topics covered focused on the definition and operation of AI agents, highlighting autonomy as the main differentiator between bots, assistants, and agents. While assistants merely help users, agents are capable of completing objectives independently, using a structure composed of instructions, language models, and tools. The integration of these components in Azure AI Foundry and the use of Semantic Kernel for code-level orchestration were discussed.
 A key topic was observability, with OpenTelemetry identified as the standard for tracking token consumption and agent execution logic on platforms like Grafana and Application Insights. Through practical examples, such as the "Contoso Açaí" project, the experts demonstrated how agents solve real business problems by natively accessing databases and APIs. Finally, the constant evolution of SDKs and the critical importance of conversation tracing for debugging in production environments were emphasized.</td>
@@ -22,18 +21,16 @@ A key topic was observability, with OpenTelemetry identified as the standard for
       <td align=center></td>
   </tr>
   <tr>
-      <td align=center>6</td>
-      <td align=center><a href="https://www.youtube.com/@CanalDotNET">CanalDotNet</a></td>
-      <td align=center>24 de Junho de 2025</td>
+      <td align=center>2</td>
+      <td align=center>June 24, 2025</td>
       <td align=center>Artificial Intelligence Fundamentals: Model Context Protocol (MCP) – What It Is and Its Benefits</td>
       <td align=center>This live session presents the Model Context Protocol (MCP) as an open standard that functions as a USB port for Artificial Intelligence, standardizing the connection of data peripherals and tools to language models. The ecosystem demonstrates maturity with SDK support in C#, Python, TypeScript, Java, Swift, and Kotlin. Its architecture decouples information sources through Host, Client, and Server, where the server acts as a bridge exposing local or remote capabilities via standardized interfaces. The session also addresses current security weaknesses, such as prompt injection risks, emphasizing the importance of ensuring that permissions are not bypassed and restricting agents to predefined and authorized actions to prevent malicious commands. Finally, it explores Azure AI Foundry Local, which enables model execution via ONNX Runtime on Windows and Mac. The tool removes Development complexity by automatically identifying and optimizing the use of CPU, GPU, or NPU, enabling robust and cloud-independent solutions.</td>
       <td align=center><a href="https://www.youtube.com/watch?v=0Gxq9ITeUBw">Link</a></td>
       <td align=center></td>
   </tr>
   <tr>
-      <td align=center>8</td>
-      <td align=center><a href="https://www.youtube.com/@CanalDotNET">CanalDotNet</a></td>
-      <td align=center>10 de Julho de 2025</td>
+      <td align=center>3</td>
+      <td align=center>July 10, 2025</td>
       <td align=center>Artificial Intelligence Fundamentals: A2A – Agent-to-Agent – An Overview of the Protocol</td>
       <td align=center>This video discusses innovations and challenges in the field of Artificial Intelligence, with a central focus on the A2A (Agent-to-Agent) protocol.
 The main points covered are:
@@ -46,9 +43,8 @@ Practical Applications: The video notes that the use of agents for support in co
       <td align=center></td>
   </tr>
    <tr>
-      <td align=center>14</td>
-      <td align=center><a href="https://www.youtube.com/@CanalDotNET">CanalDotNet</a></td>
-      <td align=center>21 de Agosto de 2025</td>
+      <td align=center>4</td>
+      <td align=center>August 21, 2025</td>
       <td align=center>Best Practices in Artificial Intelligence: Security Tips and Recommendations with MCP Servers</td>
       <td align=center>
       This video addresses security best practices for MCP (Model Context Protocol), described as a "USB" that connects AI models to various tools and repositories. The experts warn about the risks of using unofficial MCPs, which can capture sensitive data such as Personal Access Tokens (PATs). A critical point discussed is excessive permissions; it is recommended to apply the Zero Trust concept, limiting access to "read-only" to mitigate damage caused by AI hallucinations or prompt injection attacks.
@@ -58,9 +54,8 @@ The lack of native authentication in many servers requires external protections,
       <td align=center><a href="">Link</a></td>
   </tr>  
   <tr>
-      <td align=center>15</td>
-      <td align=center><a href="https://www.youtube.com/@CanalDotNET">Canal dotNET</a></td>
-      <td align=center>27 de Agosto de 2025</td>
+      <td align=center>5</td>
+      <td align=center>August 27, 2025</td>
       <td align=center>Artificial Intelligence Security: Main Attacks Using MCP Servers and How to Avoid Them!</td>
       <td align=center>
       This video addresses security risks and best practices when using Model Context Protocol (MCP) servers in AI agents. Among the main attacks discussed are "poison tool description," where malicious descriptions deceive AI into executing improper actions (such as leaking private conversations), and "name collision," which uses names similar to legitimate tools to mislead the system. Another highlighted danger is the "cross-connector" attack, where a hidden command in a document triggers malicious actions through another connector.
@@ -70,9 +65,8 @@ To mitigate these threats, experts recommend the principle of least privilege, l
       <td align=center></td>
   </tr>
   <tr>
-      <td align=center>16</td>
-      <td align=center><a href="https://www.youtube.com/@CanalDotNET">Canal dotNET</a></td>
-      <td align=center>4 setembro 2025</td>
+      <td align=center>6</td>
+      <td align=center>September 4, 2025</td>
       <td align=center>What You Need to Know About Prompt Injection</td>
       <td align=center>
       This video provides a technical and practical approach to Prompt Injection, identified as the number one vulnerability in the OWASP Top 10 list for LLMs. The experts demonstrate how to bypass AI security restrictions through context techniques, such as using "movie scripts" to force prohibited translations or extracting system prompts and internal tools. Advanced attacks using special tokens (such as <|im_start|>) and the "Crescendo" method, which automates manipulation through gradual dialogues, are discussed.
@@ -82,9 +76,8 @@ A critical highlight is database integration, where prompt injection can trigger
       <td align=center></td>
   </tr>
   <tr>
-      <td align=center>17</td>
-      <td align=center><a href="https://www.youtube.com/@CodingNight">Canal dotNET</a></td>
-      <td align=center>19 Setembro 2025</td>
+      <td align=center>7</td>
+      <td align=center>September 19, 2025</td>
       <td align=center>Roundtable #233: Open Source from A to Z – Projects, Tips, Possibilities… | 19th Edition</td>
       <td align=center>
       The video "Roundtable #233" addresses security in the open source ecosystem and supply chain attacks. Participants discuss recent incidents, such as the credential leak at CrowdStrike via infected npm packages and a critical vulnerability in Microsoft Entra ID that allowed administrative access between different tenants through JWT tokens. They highlight how Artificial Intelligence is being used to bypass security systems, including Captcha and facial biometrics bypass.
@@ -94,9 +87,8 @@ The live session explores educational resources from API Security University and
       <td align=center></td>
   </tr>
   <tr>
-      <td align=center>24</td>
-      <td align=center></td>
-      <td align=center>27 novembro de 2025</td>
+      <td align=center>8</td>
+      <td align=center>November 27, 2025</td>
       <td align=center>OWASP Top 10 Risks for Open Source Software + Vulnerabilities in Application Dependencies</td>
       <td align=center>
       This video covers the OWASP Top 10 list specifically focused on open source software, highlighting security risks in dependencies and packages such as npm, NuGet, Maven, and Docker images. The speakers discuss the first item on the list, "Known Vulnerabilities," emphasizing the importance of monitoring CVEs and using databases like NIST and GitHub Security Advisories.
@@ -107,9 +99,8 @@ For mitigation, it is recommended to use GitHub Dependabot, which automates secu
       <td align=center></td>
   </tr>
    <tr>
-      <td align=center>25</td>
-      <td align=center></td>
-      <td align=center>3 de Dezembro de 2025</td>
+      <td align=center>9</td>
+      <td align=center>December 3, 2025</td>
       <td align=center>OWASP Top 10 Risks for Open Source Software: Packages and Dependencies with Compromised Security</td>
       <td align=center>
       This video addresses the risks listed in the OWASP Top 10 for Open Source Software (OSS), with special focus on the compromise of legitimate packages. The experts discuss how attackers inject malicious code into trusted projects through maintainer account hijacking or repository vulnerabilities, affecting build system integrity and data.
@@ -120,9 +111,8 @@ As mitigation measures, the video recommends using secure internal repositories 
       <td align=center></td>
   </tr>
 <tr>
-      <td align=center>27</td>
-      <td align=center></td>
-      <td align=center>12 de Dezembro de 2025</td>
+      <td align=center>10</td>
+      <td align=center>December 12, 2025</td>
       <td align=center>Microsoft Ignite 2025: Key Announcements – Azure, AI, Data, and Much More!</td>
       <td align=center>
       This video details the main announcements from Microsoft Ignite 2025, with an intense focus on Artificial Intelligence. One highlight is Microsoft AI Foundry, which unifies tools like the Agent Framework and offers Model Router for cost and performance optimization. The evolution of Copilot Studio is discussed, allowing the creation of low-code agents integrated with Teams and Microsoft 365, enhanced by "Work IQ" for personalized learning based on daily user activity.
@@ -132,9 +122,8 @@ The broadcast also covers the Model Context Protocol (MCP), highlighting its rap
       <td align=center></td>
   </tr>
   <tr>
-      <td align=center>28</td>
-      <td align=center></td>
-      <td align=center>17 de Dezembro de 2025</td>
+      <td align=center>11</td>
+      <td align=center>December 17, 2025</td>
       <td align=center>What’s New in MCP + AI: Free Certification, Linux Foundation, Agentic AI Foundation…</td>
       <td align=center>
       This video details the main updates on the Model Context Protocol (MCP), highlighting its rapid rise as an essential open standard for the Agentic AI era. The key milestone is the donation of the protocol by Anthropic to the Linux Foundation, where it will be managed by the newly created Agentic AI Foundation, alongside other protocols such as A2A and ACP. This transition ensures neutral and stable governance, following the successful model of the Kubernetes ecosystem.
@@ -144,9 +133,8 @@ The content explores the support from tech giants like Microsoft, GitHub, and Go
       <td align=center></td>
   </tr>
     <tr>
-      <td align=center>30</td>
-      <td align=center></td>
-      <td align=center>23 de Dezembro de 2025</td>
+      <td align=center>12</td>
+      <td align=center>December 23, 2025</td>
       <td align=center>OWASP MCP Top 10: Security in Integrations with Artificial Intelligence</td>
       <td align=center>
       This video addresses the main security vulnerabilities in using the Model Context Protocol (MCP), a protocol widely adopted in AI integrations. The experts highlight ten critical risks: token and secrets exposure, privilege escalation via excessive scopes, tool poisoning with malicious instructions, software supply chain attacks, malicious command and prompt injection, authentication and authorization failures, lack of auditing and telemetry, use of unapproved MCP servers (shadow MCPs), and information leakage via context injection.
@@ -156,18 +144,16 @@ As best practices, they recommend consuming MCPs from trusted sources like the D
       <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_online-1330-owasp-mcp-top-10-ia-activity-7409236185669263360-3pUD?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
   </tr>
   <tr>
-      <td align=center>43</td>
-      <td align=center><a href="https://www.youtube.com/@CanalDotNET">CanalDotNet</a></td>
-      <td align=center>5 de Março de 2026</td>
+      <td align=center>13</td>
+      <td align=center>March 5, 2026</td>
       <td align=center>Code Security: some considerations, best practices, support tools...</td>
       <td align=center>Check out this video for a discussion on how to implement more secure code in application development: Well-Architected Framework, issues involving data privacy, Artificial Intelligence, recommendations that integrate the OWASP Cheat Sheet Series, SAST (Static Application Security Testing), DAST (Dynamic Application Security Testing), Grafana dashboards for security analysis in containers/Kubernetes, open source tools...</td>
       <td align=center><a href="https://www.youtube.com/watch?v=Kk_aKMR65mE">Link</a></td>
       <td align=center><a href="">Link</a></td>
   </tr>
   <tr>
-      <td align=center>44</td>
-      <td align=center><a href="https://www.youtube.com/@CanalDotNET">CanalDotNet</a></td>
-      <td align=center>5 de Março de 2026</td>
+      <td align=center>14</td>
+      <td align=center>March 5, 2026</td>
       <td align=center>Como Usar o DevUI do Microsoft Agent Framework para Monitorar Workflows na Prática</td>
       <td align=center>This video from the Microsoft Agent Framework series demonstrates how to use DevUI to visually monitor and test agents and workflows. The tool provides a chat interface for real-time interactions, allowing developers to view event logs and detailed agent instructions.
 A key feature is the ability to track token consumption (input, output, and total) in both normal and streaming modes. The video also showcases how to inspect sequential workflows through an execution timeline, identifying specific "super steps" and tool calls, such as retrieving weather or the current time.

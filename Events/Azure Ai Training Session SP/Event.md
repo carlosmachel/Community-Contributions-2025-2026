@@ -5,6 +5,6 @@
 **LinkedIn post:**  
 **Location:** São Paulo, SP - Brazil
 
-Neste treinamento de Inteligência artificial com Azure AI eu atuei como apoio, tirando dúvidas e explicando a minha experiência com Inteligência Artificial com Azure e utilizando Microsoft Foundry (Na epoca Azure Foundry). 
+In this Azure AI training, I acted as a support facilitator, helping answer questions and sharing my experience with Artificial Intelligence on Azure, including the use of Microsoft Foundry (formerly Azure Foundry).
 
 [See images](./Images)

@@ -5,8 +5,9 @@
 **LinkedIn post:** [LinkedIn Post](https://www.linkedin.com/posts/carlosmachel_azurebrasilforstartups-comunidadetech-microsoftazure-activity-7366166694337163264-uSFY?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg)  
 **Location:** São Paulo, SP - Brazil
 
-Neste treinamento eu ministrei aulas explicando como o que é um agente. Como funciona o Run do agente utilizando a biblioteca do Persistent Agent da Microsoft. O que são tools e como rodar as tools no Persistent Agent.
-Apresentamos também o Microsoft Foundry, os modelos disponiveis, como você faz o monitoramento dos seus agentes.
+In this training, I delivered sessions explaining what an agent is and how the agent run lifecycle works using Microsoft’s Persistent Agent library. I also covered what tools are and how to execute them within the Persistent Agent.
+
+Additionally, we introduced Microsoft Foundry, explored the available models, and demonstrated how to monitor your agents.
 
 
 [See images](./Images)
