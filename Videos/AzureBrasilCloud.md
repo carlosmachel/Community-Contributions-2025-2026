@@ -187,28 +187,22 @@ The main advantages of the new approach include simplified workflows, more robus
   </tr>
   <tr>
       <td align=center>17</td>
-      <td align=center></td>
       <td align=center>22 de Janeiro de 2026</td>
       <td align=center>Microsoft Agent Framework: Full Control with AI Functions and Human Approvals</td>
-      <td align=center>
-      This video from the AzureBrasil Cloud channel celebrates the milestone of 1,000 subscribers and covers how to make AI agents smarter and more secure using the Microsoft Agent Framework.
+      <td align=center>This video from the AzureBrasil Cloud channel celebrates the milestone of 1,000 subscribers and covers how to make AI agents smarter and more secure using the Microsoft Agent Framework.
 The content explains how to enhance agents with AI Functions, using the GetWeather example to demonstrate how functions are described and converted into tools by the AI Function Factory. It then focuses on implementing human approval for sensitive functions—such as external resource consumption or data deletion—activated by the require approval property.
-In the practical demonstration with a minimal API, the video shows the difference between simple questions (capital of Brazil, no approval needed) and temperature queries, which trigger the approval flow. Debugging confirms that the function is only executed after explicit user consent, ensuring control, security, and prevention of unwanted actions.
-      </td>
+In the practical demonstration with a minimal API, the video shows the difference between simple questions (capital of Brazil, no approval needed) and temperature queries, which trigger the approval flow. Debugging confirms that the function is only executed after explicit user consent, ensuring control, security, and prevention of unwanted actions.</td>
       <td align=center><a href="https://www.youtube.com/watch?v=d-QwElK-YBY&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=34">Link</a></td>
       <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_saindo-nosso-v%C3%ADdeo-de-quinta-feira-no-canal-activity-7420162450286817280-1R2-?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
   </tr>
   <tr>
       <td align=center>18</td>
-      <td align=center></td>
       <td align=center>29 de Janeiro de 2026</td>
       <td align=center>Basic RAG in Microsoft Foundry: How to Add File Search Step by Step</td>
-      <td align=center>
-      This video covers the implementation of the file search tool in Microsoft Azure AI Foundry, comparing the classic approach with Persistent Agents and the new version of the platform.
+      <td align=center>This video covers the implementation of the file search tool in Microsoft Azure AI Foundry, comparing the classic approach with Persistent Agents and the new version of the platform.
 In the old version, file content access was done through "threads," requiring more manual configuration. In the new Foundry, tools are associated directly with the agent, simplifying the process. The tutorial demonstrates step by step how to create an agent, build a Vector Store, upload files, and link the search tool.
 The video also explores error handling when associating tools with conversations with already-defined agents, and demonstrates direct calls to the response model without an agent while maintaining conversation history.
-The main technologies covered include Azure AI Foundry, Vector Store, File Search Tool, Persistent Agents, and the Responses API, highlighting how the new platform abstracts the complexity of file processing and chunking.
-      </td>
+The main technologies covered include Azure AI Foundry, Vector Store, File Search Tool, Persistent Agents, and the Responses API, highlighting how the new platform abstracts the complexity of file processing and chunking.</td>
       <td align=center><a href="https://www.youtube.com/watch?v=Dssx_oJJq8E&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=35">Link</a></td>
       <td align=center><a href="https://www.linkedin.com/posts/carlosmachel_quinta-feira-%C3%A9-dia-de-v%C3%ADdeo-no-canal-da-azurebrasilcloud-activity-7422645176101134336-YQfD?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwDPuMBUIynDxpLtAB9N7-XCR_m6IhWMLg">Link</a></td>
   </tr>
