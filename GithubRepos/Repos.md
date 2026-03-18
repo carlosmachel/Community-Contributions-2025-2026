@@ -12,8 +12,8 @@ Let’s learn together and create solutions that truly make a difference.
 
 Contributions
 
-| Repositories| First Commit|README
-|-----------|-------|
+| Repositories| First Commit|
+
 |https://github.com/carlosmachel/azure-ai-agents-code-interpreter-tool                  |May 23, 2025|X| 
 |https://github.com/carlosmachel/azure-semantic-kernel                  |Jun 9, 2025 |X| 
 |https://github.com/carlosmachel/azure-ai-agents-basic                  |Jul 15, 2025|X|
@@ -24,3 +24,4 @@ Contributions
 |https://github.com/carlosmachel/response-api-vectorstore                  |Jan 28, 2026|
 |https://github.com/carlosmachel/maf-workflow-multiagents                  |Jan 27 2026|
 |https://github.com/carlosmachel/response-api-agent-basic                  |Jan 12 2026 |
+|https://github.com/carlosmachel/maf-video-8 |5 March, 2026 | 
