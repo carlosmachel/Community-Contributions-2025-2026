@@ -1,6 +1,6 @@
 # Youtube
 
-<b>Number of contributions: 14</b>
+<b>Number of contributions: 15</b>
 
 <table>
   <tr>
@@ -17,7 +17,7 @@
       <td align=center>Artificial Intelligence Fundamentals: Agents, Assistants, Bots, Observability…</td>
       <td align=center>In this live session, the topics covered focused on the definition and operation of AI agents, highlighting autonomy as the main differentiator between bots, assistants, and agents. While assistants merely help users, agents are capable of completing objectives independently, using a structure composed of instructions, language models, and tools. The integration of these components in Azure AI Foundry and the use of Semantic Kernel for code-level orchestration were discussed.
 A key topic was observability, with OpenTelemetry identified as the standard for tracking token consumption and agent execution logic on platforms like Grafana and Application Insights. Through practical examples, such as the "Contoso Açaí" project, the experts demonstrated how agents solve real business problems by natively accessing databases and APIs. Finally, the constant evolution of SDKs and the critical importance of conversation tracing for debugging in production environments were emphasized.</td>
-      <td align=center><a href="https://www.youtube.com/watch?v=f1QGl5Z_Jws&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=6">Link</a></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=f1QGl5Z_Jws">Link</a></td>
       <td align=center></td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ To mitigate these threats, experts recommend the principle of least privilege, l
       This video provides a technical and practical approach to Prompt Injection, identified as the number one vulnerability in the OWASP Top 10 list for LLMs. The experts demonstrate how to bypass AI security restrictions through context techniques, such as using "movie scripts" to force prohibited translations or extracting system prompts and internal tools. Advanced attacks using special tokens (such as <|im_start|>) and the "Crescendo" method, which automates manipulation through gradual dialogues, are discussed.
 A critical highlight is database integration, where prompt injection can trigger SQL Injection, allowing destructive commands like DROP TABLE even against explicit security instructions. For mitigation, the speakers emphasize the Principle of Least Privilege, limiting AI access permissions, and the use of Guardrails and tools like Azure AI Content Safety. The conclusion is that relying solely on text instructions is dangerous, making it essential to technically validate all inputs and outputs.
       </td>
-      <td align=center><a href="https://www.youtube.com/watch?v=JUqSO07-xRk&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=17">Link</a></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=JUqSO07-xRk">Link</a></td>
       <td align=center></td>
   </tr>
   <tr>
@@ -83,7 +83,7 @@ A critical highlight is database integration, where prompt injection can trigger
       The video "Roundtable #233" addresses security in the open source ecosystem and supply chain attacks. Participants discuss recent incidents, such as the credential leak at CrowdStrike via infected npm packages and a critical vulnerability in Microsoft Entra ID that allowed administrative access between different tenants through JWT tokens. They highlight how Artificial Intelligence is being used to bypass security systems, including Captcha and facial biometrics bypass.
 The live session explores educational resources from API Security University and focuses on items from the OWASP Top 10 list for Open Source Software, detailing known vulnerabilities (CVEs) and the compromise of legitimate packages. Tools like GitHub Dependabot, Snyk, and Checkmarx are recommended for risk mitigation. Finally, the experts debate the impact of post-quantum computing on cryptography and recall technological evolution, from the era of floppy disks to modern Docker images.
 </td>
-      <td align=center><a href="https://www.youtube.com/watch?v=Hd2kmAYUZ1k&list=PLul02IGpQBUgsuezYxk9jbO1X8Y1aO4L9&index=18">Link</a></td>
+      <td align=center><a href="https://www.youtube.com/watch?v=Hd2kmAYUZ1k">Link</a></td>
       <td align=center></td>
   </tr>
   <tr>
